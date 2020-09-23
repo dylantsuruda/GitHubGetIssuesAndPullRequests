@@ -1,0 +1,3626 @@
+Update Irish.xml
+-D-E-L-I-M-I-T-E-R-
+Update Turkish Localization
+-D-E-L-I-M-I-T-E-R-
+Fix Document Map shows on all desktops issue
+-D-E-L-I-M-I-T-E-R-
+Disallow backward regex searches due to sometimes surprising results
+-D-E-L-I-M-I-T-E-R-
+Fix loadFileData() does not detect error properly issue
+-D-E-L-I-M-I-T-E-R-
+Fix Clickable links can break syntax highlighting issue
+-D-E-L-I-M-I-T-E-R-
+Fix issue 999 Clickable links can break syntax highlighting
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml to 7.8.7
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml  to v7.8.7
+-D-E-L-I-M-I-T-E-R-
+Optimization  "english.xml"
+-D-E-L-I-M-I-T-E-R-
+Allow user to skip *.* when adding only excluding Filters for Find/Replace In Files
+-D-E-L-I-M-I-T-E-R-
+Issue 4283:  Misspelled word and poor grammar in Replace dialog.
+-D-E-L-I-M-I-T-E-R-
+DansLeRuSH dark theme (20200511)
+-D-E-L-I-M-I-T-E-R-
+Fixed spelling and grammar of find/replace result verbiages.
+-D-E-L-I-M-I-T-E-R-
+find incremental dialod: add support of extended search and regexp se…
+-D-E-L-I-M-I-T-E-R-
+Fix incorrect macro name
+-D-E-L-I-M-I-T-E-R-
+Add menu item to hide search results window
+-D-E-L-I-M-I-T-E-R-
+Add Regex Help Menu Item
+-D-E-L-I-M-I-T-E-R-
+Find-in-Files "Filters" box of ONLY "exclusion" items finds no matches; should auto-add *.*
+-D-E-L-I-M-I-T-E-R-
+Update english.xml
+-D-E-L-I-M-I-T-E-R-
+Improve 'Debug Information' area of issue creation template
+-D-E-L-I-M-I-T-E-R-
+Fix Issue 8067 Doc switcher icon state update for cloned documents
+-D-E-L-I-M-I-T-E-R-
+Assign ctrl+m as default shortcut for invoking mark dialog
+-D-E-L-I-M-I-T-E-R-
+Uploading new DansLeRuSH dark theme
+-D-E-L-I-M-I-T-E-R-
+Add ability to do a find-all in a selection
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml to 7.8.7
+-D-E-L-I-M-I-T-E-R-
+mingw build with all warnings enabled
+-D-E-L-I-M-I-T-E-R-
+update perl keywords and auto-complete
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml to v7.8.7
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Update Slovak translation
+-D-E-L-I-M-I-T-E-R-
+Include the final step under building with boost
+-D-E-L-I-M-I-T-E-R-
+Retain find history if config file value set too large
+-D-E-L-I-M-I-T-E-R-
+Make ReplaceInFiles confirmation prompt translation capable
+-D-E-L-I-M-I-T-E-R-
+Update Czech translation to v7.8.6
+-D-E-L-I-M-I-T-E-R-
+Update belarusian.xml
+-D-E-L-I-M-I-T-E-R-
+Fix wrong Project panel at start issue
+-D-E-L-I-M-I-T-E-R-
+added ControlFlowGuard setting for N++ from #8108
+-D-E-L-I-M-I-T-E-R-
+Added new keywords introduced in VHDL-2008 
+-D-E-L-I-M-I-T-E-R-
+Wrong characters shown when reloading a file that changed its encoding. #5997
+-D-E-L-I-M-I-T-E-R-
+Add count of files searched to 'Find result' output
+-D-E-L-I-M-I-T-E-R-
+fix bug of clearing too much when clearing marking in selected text
+-D-E-L-I-M-I-T-E-R-
+Add ability to find-all in selected text of the current document
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.8.7
+-D-E-L-I-M-I-T-E-R-
+Enhancement #6272 Recent Files UI Change
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Feature #8074 Macro Move/Sort Buttons Implemented
+-D-E-L-I-M-I-T-E-R-
+Wrong characters shown when reloading a file that changed its encoding. #5997
+-D-E-L-I-M-I-T-E-R-
+disable upward searches in regular expression mode
+-D-E-L-I-M-I-T-E-R-
+Wrong characters shown when reloading a file that changed its encoding. #5997
+-D-E-L-I-M-I-T-E-R-
+Master
+-D-E-L-I-M-I-T-E-R-
+Fix strncmp return type and first parameter
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to 7.8.7
+-D-E-L-I-M-I-T-E-R-
+Implement multi-line edge feature
+-D-E-L-I-M-I-T-E-R-
+Changes localization name back from "taiwaneseMandarin.xml"
+-D-E-L-I-M-I-T-E-R-
+FR5610 make shortcutmapper cols resizable
+-D-E-L-I-M-I-T-E-R-
+Wrong characters shown when reloading a file that changed its encoding.
+-D-E-L-I-M-I-T-E-R-
+Improve compatibility for IDC_FINDNEXT and IDC_FINDPREV macros
+-D-E-L-I-M-I-T-E-R-
+Closure activates MRU doc. instead of doc. to its right, if MRU behaviour enabled
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml to v7.8.6
+-D-E-L-I-M-I-T-E-R-
+Updated NSIS keywords (in-sync with NSIS revision 7154)
+-D-E-L-I-M-I-T-E-R-
+Added powershell styles for Monokai theme
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update slovak.xml
+-D-E-L-I-M-I-T-E-R-
+Updated CSS Keywords
+-D-E-L-I-M-I-T-E-R-
+Add C language keywords
+-D-E-L-I-M-I-T-E-R-
+Make Replace-in-Files confirmation dialog modal
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml to 7.8.6
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml to v7.8.6
+-D-E-L-I-M-I-T-E-R-
+Update Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Update venetian.xml (fix tabulation)
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Venetian: added size info translation
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Fix small typo of 'Expiries' to 'Expires' in README.md
+-D-E-L-I-M-I-T-E-R-
+Update korean.xml
+-D-E-L-I-M-I-T-E-R-
+Add support for auto-indenting Perl and Rust.
+-D-E-L-I-M-I-T-E-R-
+Remove unneeded IDC_FINDPREV and IDC_FINDNEXT from macros
+-D-E-L-I-M-I-T-E-R-
+Make view-in-browser commands macro recordable
+-D-E-L-I-M-I-T-E-R-
+Added the doc-size column to the Windows Selection dialog
+-D-E-L-I-M-I-T-E-R-
+Move CONTRIBUTING.md to .github, update to new issue template workflow
+-D-E-L-I-M-I-T-E-R-
+fix for #3142 and #4955 - "Monitoring" doesn't detect changes
+-D-E-L-I-M-I-T-E-R-
+Added new doc-size column in Windows-Selection dialog #7905
+-D-E-L-I-M-I-T-E-R-
+Add GitHub Actions CI
+-D-E-L-I-M-I-T-E-R-
+translation: chinese: "搜索" -> "搜尋"
+-D-E-L-I-M-I-T-E-R-
+Fix
+-D-E-L-I-M-I-T-E-R-
+Add external sound control capability for unsuccessful search bell
+-D-E-L-I-M-I-T-E-R-
+Fix for Issue# 7895 - Keyboard shortcut for "Open Containing Folder in Explorer" is partially broken
+-D-E-L-I-M-I-T-E-R-
+Fix for Issue# 7895
+-D-E-L-I-M-I-T-E-R-
+Update korean.xml
+-D-E-L-I-M-I-T-E-R-
+Fix UDL folding breaking with delimiters
+-D-E-L-I-M-I-T-E-R-
+Create catalan-valencian.xml language file
+-D-E-L-I-M-I-T-E-R-
+switch out broken link
+-D-E-L-I-M-I-T-E-R-
+Make Count command respect Backward-direction and Wrap-around options
+-D-E-L-I-M-I-T-E-R-
+Fix Venetian translation
+-D-E-L-I-M-I-T-E-R-
+Add document length to Windows-dialog / 
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for 7.8.4
+-D-E-L-I-M-I-T-E-R-
+Make Find window remember its position across multiple runs
+-D-E-L-I-M-I-T-E-R-
+Update Swedish localization
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Fix HashFrom(Files|Text)Dlg::doDialog()
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation
+-D-E-L-I-M-I-T-E-R-
+Fix position restoration of a found result if Word-Wrap is on
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Update korean #6c591cb
+-D-E-L-I-M-I-T-E-R-
+Fix word repetition in ISSUE_TEMPLATE.md comment
+-D-E-L-I-M-I-T-E-R-
+Update Venetian translation 7.8.3 and fix
+-D-E-L-I-M-I-T-E-R-
+Update polish.xml to 7.8.3
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml to v7.8.3
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml
+-D-E-L-I-M-I-T-E-R-
+Update breton.xml to v7.8.3
+-D-E-L-I-M-I-T-E-R-
+breton-notepad++.7.8.3.xml
+-D-E-L-I-M-I-T-E-R-
+Update polish.xml
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml to v7.8.3
+-D-E-L-I-M-I-T-E-R-
+Update polish.xml
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml to v7.8.3
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml to v7.8.3
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.8.3
+-D-E-L-I-M-I-T-E-R-
+update korean 7.8.3
+-D-E-L-I-M-I-T-E-R-
+Use Scintilla built-in Markdown lexer
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update localization files (move Item 6115)
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml to 7.8.3
+-D-E-L-I-M-I-T-E-R-
+Delete nppGpgPub.asc
+-D-E-L-I-M-I-T-E-R-
+Fix scintilla restoring wrapped buffer issue
+-D-E-L-I-M-I-T-E-R-
+Venetan localization
+-D-E-L-I-M-I-T-E-R-
+Venetan localization
+-D-E-L-I-M-I-T-E-R-
+Add Venetian localization [complete]
+-D-E-L-I-M-I-T-E-R-
+Venetan localization
+-D-E-L-I-M-I-T-E-R-
+Venetan localization
+-D-E-L-I-M-I-T-E-R-
+Venetan localization
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Update spanish.xml to v7.8.3
+-D-E-L-I-M-I-T-E-R-
+incremental search bar: don't clear 'highlight all' option on closing
+-D-E-L-I-M-I-T-E-R-
+Fix scintilla restoring wrapped buffer issue
+-D-E-L-I-M-I-T-E-R-
+Add "Fold All" toolbar command in Folder As Workspace
+-D-E-L-I-M-I-T-E-R-
+Fix auto-insert bug
+-D-E-L-I-M-I-T-E-R-
+Make MinGW gcc build work again
+-D-E-L-I-M-I-T-E-R-
+Fix a autoCompletion close tag bug #6078
+-D-E-L-I-M-I-T-E-R-
+Add "commandLineInterpreter" setting in config.xml
+-D-E-L-I-M-I-T-E-R-
+Add feature to select/show current editing file in Folder As Workspace
+-D-E-L-I-M-I-T-E-R-
+Update Turkish Localization
+-D-E-L-I-M-I-T-E-R-
+Fix a autocompletion bug in parentheses and brackets #6078
+-D-E-L-I-M-I-T-E-R-
+[ENHANCEMENT] added save as button as per Issue#5056
+-D-E-L-I-M-I-T-E-R-
+Fix too small buffer issue during add text macro playback
+-D-E-L-I-M-I-T-E-R-
+Fixed Function list in C++ does not detect functions with parameter comments containing parantheses (reopen of #4899) #5522
+-D-E-L-I-M-I-T-E-R-
+Update Simplified Chinese translation for v7.8.2
+-D-E-L-I-M-I-T-E-R-
+Eliminate garbage displaying in Find-result fold margin
+-D-E-L-I-M-I-T-E-R-
+Fix scintilla restoring wrapped buffer issue
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml to v7.8.2
+-D-E-L-I-M-I-T-E-R-
+Fix "Close All Unchanged" for sub-view
+-D-E-L-I-M-I-T-E-R-
+backward direction checkbox always enabled, even in regular exp. search mode
+-D-E-L-I-M-I-T-E-R-
+Update dead Link.
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.8.3
+-D-E-L-I-M-I-T-E-R-
+Enable two more SQL keyword list
+-D-E-L-I-M-I-T-E-R-
+Add "Encoding > Character Set" localization items (english & french)
+-D-E-L-I-M-I-T-E-R-
+Fix mistyped Item id in slovenian.xml
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml to v7.8.2
+-D-E-L-I-M-I-T-E-R-
+Make 'Purge for each search' respect 'In selection' for 'Mark All' op
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update danish translation to 7.8.1
+-D-E-L-I-M-I-T-E-R-
+Update Korean
+-D-E-L-I-M-I-T-E-R-
+Updated swedish translations and fixed indent inconsistencies in all translations.
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Update Russian lang for 7.8.2
+-D-E-L-I-M-I-T-E-R-
+Increased size the field for localizations.
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Make 'Clear all marks' respect 'In selection' choice
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml
+-D-E-L-I-M-I-T-E-R-
+Make 'Clear all marks' respect 'In selection' option
+-D-E-L-I-M-I-T-E-R-
+#7618 Simple exclude files in "Find in Files" filter using "!"
+-D-E-L-I-M-I-T-E-R-
+#7618 Simple exclude files in "Find in Files" filter using "!"
+-D-E-L-I-M-I-T-E-R-
+#7618 Simple exclude files in "Find in Files" filter
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update belarusian.xml
+-D-E-L-I-M-I-T-E-R-
+Python builtins highlighting
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml to 7.8.1
+-D-E-L-I-M-I-T-E-R-
+Remove unused function
+-D-E-L-I-M-I-T-E-R-
+Add missing includes
+-D-E-L-I-M-I-T-E-R-
+Remove some unnecessary string constructions
+-D-E-L-I-M-I-T-E-R-
+Remove unnecessary macro checks
+-D-E-L-I-M-I-T-E-R-
+Add missing semicolon after function call
+-D-E-L-I-M-I-T-E-R-
+Remove unused class
+-D-E-L-I-M-I-T-E-R-
+Balance unbalanced GlobalLock/Unlock() pairs
+-D-E-L-I-M-I-T-E-R-
+Fix incorrect use of std::remove_if().
+-D-E-L-I-M-I-T-E-R-
+[Fixed issue]: Open Explorer with Correct path in Folder as workspace
+-D-E-L-I-M-I-T-E-R-
+Improve "Close all BUT This" functionality
+-D-E-L-I-M-I-T-E-R-
+Don't show save confirmation twice for unsaved cloned doc on exit
+-D-E-L-I-M-I-T-E-R-
+Improve "Close all BUT This" functionality
+-D-E-L-I-M-I-T-E-R-
+fix to also check for dirty file Issue #7543
+-D-E-L-I-M-I-T-E-R-
+Fix XML syntax in korean.xml
+-D-E-L-I-M-I-T-E-R-
+Resolve #5404 - Add a Languages submenu item to open UDL folder.
+-D-E-L-I-M-I-T-E-R-
+fix to remove extra confirm dialog
+-D-E-L-I-M-I-T-E-R-
+Add disable In-Selection when multiple selections active for Count, Replace-All and Mark-all commands
+-D-E-L-I-M-I-T-E-R-
+remove unnecessary delete fail msg
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed defect and optimization
+-D-E-L-I-M-I-T-E-R-
+Fix GCC compile errors under Linux due to case sensitivity in #include
+-D-E-L-I-M-I-T-E-R-
+Fixed #7508 (kind of regression)
+-D-E-L-I-M-I-T-E-R-
+Update Korean
+-D-E-L-I-M-I-T-E-R-
+Add theme file extension for ini
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.8.1
+-D-E-L-I-M-I-T-E-R-
+Make end-of-line conversion operations macroable
+-D-E-L-I-M-I-T-E-R-
+TAIWANESE needs more freedom!
+-D-E-L-I-M-I-T-E-R-
+Fix typo in spanish translation
+-D-E-L-I-M-I-T-E-R-
+Improve 'Close all to the left' and 'Close all to the right' functionality
+-D-E-L-I-M-I-T-E-R-
+remove unnecessary delete fail msg
+-D-E-L-I-M-I-T-E-R-
+Update README.md
+-D-E-L-I-M-I-T-E-R-
+Create fuck_you
+-D-E-L-I-M-I-T-E-R-
+Fix tab dragging issues related to switching off TCS_BUTTONS under multi-line tabs mode (per AngryGamer's suggestions)
+-D-E-L-I-M-I-T-E-R-
+Fix for multi-line tabBar click activation #6274
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml to 7.8.1
+-D-E-L-I-M-I-T-E-R-
+Capitalized first character of 'wrap' in 'Word wrap'
+-D-E-L-I-M-I-T-E-R-
+Update unitTest
+-D-E-L-I-M-I-T-E-R-
+Update readme.txt
+-D-E-L-I-M-I-T-E-R-
+Update README.md
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml to v7.8.1
+-D-E-L-I-M-I-T-E-R-
+Update README.md
+-D-E-L-I-M-I-T-E-R-
+Fix for Alt+Tab doesn't show NPP #6244
+-D-E-L-I-M-I-T-E-R-
+Alt+Tab not showing NPP fix
+-D-E-L-I-M-I-T-E-R-
+Removed the broken image under Coding Style in CONTRIBUTING.md
+-D-E-L-I-M-I-T-E-R-
+Updated Hindi language
+-D-E-L-I-M-I-T-E-R-
+Update README.md
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Fix Italian localization
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v7.8.1
+-D-E-L-I-M-I-T-E-R-
+Fix/Update brazilian_portuguese.xml v7.8
+-D-E-L-I-M-I-T-E-R-
+Update german.xlm to v7.8.1
+-D-E-L-I-M-I-T-E-R-
+Fix initialization of _monospacedFontFinfDlg parameter
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml to 7.8.1
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml 
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml for v7.8.1
+-D-E-L-I-M-I-T-E-R-
+Fix localization in Preferences dialog
+-D-E-L-I-M-I-T-E-R-
+Update English (hotkey menu)
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml v7.8
+-D-E-L-I-M-I-T-E-R-
+I think it is a bug.
+-D-E-L-I-M-I-T-E-R-
+Regression: Fixed command line parsing logic error
+-D-E-L-I-M-I-T-E-R-
+Added more C# IntelliSense suggestions
+-D-E-L-I-M-I-T-E-R-
+Fix to tab clicks under multi-line mode
+-D-E-L-I-M-I-T-E-R-
+tab fix
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml for version 7.8.0
+-D-E-L-I-M-I-T-E-R-
+update for arm64 build
+-D-E-L-I-M-I-T-E-R-
+Fix Portuguese localization
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml (New entries)
+-D-E-L-I-M-I-T-E-R-
+Implements native Win32 API file access and uses it to write user files
+-D-E-L-I-M-I-T-E-R-
+Remove association check before enabling 'View Current File In' menu items
+-D-E-L-I-M-I-T-E-R-
+Update danish.xml to 7.7.2
+-D-E-L-I-M-I-T-E-R-
+multilanguage support for installer
+-D-E-L-I-M-I-T-E-R-
+BaanC Add keyword lists and respective langs & styler xml tags.
+-D-E-L-I-M-I-T-E-R-
+LexA68k.cxx minor comment fix
+-D-E-L-I-M-I-T-E-R-
+Fixed code error (may be typo)
+-D-E-L-I-M-I-T-E-R-
+Reduce useless member variable from class
+-D-E-L-I-M-I-T-E-R-
+Avoid using "using namespace std;", rather use "std::"
+-D-E-L-I-M-I-T-E-R-
+Use C++11 range based for loop
+-D-E-L-I-M-I-T-E-R-
+Allow Rename (file) command to change file's drive
+-D-E-L-I-M-I-T-E-R-
+Fix issue #6105
+-D-E-L-I-M-I-T-E-R-
+Fixed inverted words in brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Improved performance of string ↔ wstring conversion.
+-D-E-L-I-M-I-T-E-R-
+Use standard C++11 mutex
+-D-E-L-I-M-I-T-E-R-
+Increase Keyword Set. The set is declared as 10 but not coded.
+-D-E-L-I-M-I-T-E-R-
+fix so that Find-All-in-All-Opened-Docs doesn't search cloned doc 2 times
+-D-E-L-I-M-I-T-E-R-
+Update JSON for Modern C++
+-D-E-L-I-M-I-T-E-R-
+Improve Italian translation
+-D-E-L-I-M-I-T-E-R-
+Switched to use larger font based on DEFAULT_GUI_FONT rather than SYSTEM (that lacks antialiasing and most of unicode symbols) for drawing non-reduced tab bar captions.
+-D-E-L-I-M-I-T-E-R-
+Update Turkish Localization
+-D-E-L-I-M-I-T-E-R-
+Provide default value for class members
+-D-E-L-I-M-I-T-E-R-
+Make progress class more elegant
+-D-E-L-I-M-I-T-E-R-
+Make ctor/dtor explicit default if possible
+-D-E-L-I-M-I-T-E-R-
+Don't return reference of local varibales
+-D-E-L-I-M-I-T-E-R-
+Pass by reference
+-D-E-L-I-M-I-T-E-R-
+Code enhancement: remove goto label
+-D-E-L-I-M-I-T-E-R-
+Handle Ctrl+A keyboard shortcut in MD5/SHA256 Generator
+-D-E-L-I-M-I-T-E-R-
+Performance improvement part 2
+-D-E-L-I-M-I-T-E-R-
+Performance improvement part 1
+-D-E-L-I-M-I-T-E-R-
+Fixed build failure caused by jump bypassing variable initialization.
+-D-E-L-I-M-I-T-E-R-
+Fixed build failure caused by use of function std::make_pair without qualificator.
+-D-E-L-I-M-I-T-E-R-
+Fixed use of deprecated function std::bind2nd.
+-D-E-L-I-M-I-T-E-R-
+Fixed build failure caused by use of members of dependent base class template without qualifier.
+-D-E-L-I-M-I-T-E-R-
+Fixed build failure caused by extra qualification present on ShortcutMapper class members declarations
+-D-E-L-I-M-I-T-E-R-
+Require Bookmark-line for Clear-all-marks to clear bookmarks
+-D-E-L-I-M-I-T-E-R-
+Bookmark all lines of multiline match (iss 6018)
+-D-E-L-I-M-I-T-E-R-
+Improve singleton
+-D-E-L-I-M-I-T-E-R-
+Handle Ctrl+A keyboard shortcut in MD5/SHA256 Generator
+-D-E-L-I-M-I-T-E-R-
+Fix tag-names in slovenian.xml
+-D-E-L-I-M-I-T-E-R-
+Fix "Command Argument Help" MessageBox
+-D-E-L-I-M-I-T-E-R-
+Fix to allow 'Remove Consecutive Duplicate Lines' to be macro recordable
+-D-E-L-I-M-I-T-E-R-
+Fix EncodingMapper singleton memory leak
+-D-E-L-I-M-I-T-E-R-
+Make backward-dir checkbox be shown on Mark tab (fix #5974)
+-D-E-L-I-M-I-T-E-R-
+Fix for bug preventing Find All Curr Doc working in macro (iss. 5973)
+-D-E-L-I-M-I-T-E-R-
+Fix crash when too many directory changes happen [without refact]
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Make Combobox font monospace in Find dialog
+-D-E-L-I-M-I-T-E-R-
+Update lisp.xml
+-D-E-L-I-M-I-T-E-R-
+Update german.xml - fix typo
+-D-E-L-I-M-I-T-E-R-
+[Installer] Fix initial checkbox state that was not handled
+-D-E-L-I-M-I-T-E-R-
+Make 'Clear all marks' and 'Inverse Bookmark' macroable (fixes # 1948)'
+-D-E-L-I-M-I-T-E-R-
+Updated Hindi again.
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to V7.7.2 (new)
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update change.log
+-D-E-L-I-M-I-T-E-R-
+Improve French translation
+-D-E-L-I-M-I-T-E-R-
+[Installer] Improve configurability of shortcuts creation
+-D-E-L-I-M-I-T-E-R-
+Update french.xml to 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Update french.xml to 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Update french.xml to 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml
+-D-E-L-I-M-I-T-E-R-
+Fix issue 1948 to make inverse bookmarking macroable
+-D-E-L-I-M-I-T-E-R-
+Update french.xml to 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml to v 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update Readme.md
+-D-E-L-I-M-I-T-E-R-
+Add "hasOwnProperty" method to the JavaScript autocompletion
+-D-E-L-I-M-I-T-E-R-
+disambiguation 5 entries regarding encoding
+-D-E-L-I-M-I-T-E-R-
+Fix the crash due to NPPM_DESTROYSCINTILLAHANDLE message
+-D-E-L-I-M-I-T-E-R-
+Add NppExport 64 bits plugin in the distribution
+-D-E-L-I-M-I-T-E-R-
+Fixed Minor regresion (UI glitch)
+-D-E-L-I-M-I-T-E-R-
+Upgrade Scintilla from 4.1.4 to 4.2.0
+-D-E-L-I-M-I-T-E-R-
+Improve GUI in Find dialog
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v 7.7.1
+-D-E-L-I-M-I-T-E-R-
+Update Italian language
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian and English localization
+-D-E-L-I-M-I-T-E-R-
+Update Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Fix local variable shadows outer variable issues
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Encoding Menu : add new options UCS-2 BE and UCS-2 LE
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Add options for multilanguage strings in the installer
+-D-E-L-I-M-I-T-E-R-
+Correctly sort absurdly large numbers
+-D-E-L-I-M-I-T-E-R-
+Fix typos in change.log
+-D-E-L-I-M-I-T-E-R-
+Enhancement: Make readonly tab identifiable even if tab is not active
+-D-E-L-I-M-I-T-E-R-
+Update Hindi localization
+-D-E-L-I-M-I-T-E-R-
+[Cosmetic changes]: Yes/No to All dlg enhancement
+-D-E-L-I-M-I-T-E-R-
+Disable integrity checks in Debug mode
+-D-E-L-I-M-I-T-E-R-
+Fix Notepad commandline style parsing
+-D-E-L-I-M-I-T-E-R-
+Fix Document Peeker constantly changing focus
+-D-E-L-I-M-I-T-E-R-
+Fix french.xml
+-D-E-L-I-M-I-T-E-R-
+Add more OS information to debug info
+-D-E-L-I-M-I-T-E-R-
+Fix crash when sorting out_of_range columns
+-D-E-L-I-M-I-T-E-R-
+Improve chinese translation for "Style Configurator"
+-D-E-L-I-M-I-T-E-R-
+Load plug-ins with LoadLibraryEx
+-D-E-L-I-M-I-T-E-R-
+Small grammar correction (English)
+-D-E-L-I-M-I-T-E-R-
+Updated polish.xml
+-D-E-L-I-M-I-T-E-R-
+'-nosession' must not overwrite config.xml (Fix #3938)
+-D-E-L-I-M-I-T-E-R-
+Fix regression in PR#5555
+-D-E-L-I-M-I-T-E-R-
+A potential crash fix
+-D-E-L-I-M-I-T-E-R-
+Fix exception when inserting DBCS text in ANSI encoding, issue #5822.
+-D-E-L-I-M-I-T-E-R-
+Zulu is not availbel on contributer page 
+-D-E-L-I-M-I-T-E-R-
+Update Zenburn theme to contain all the languages supported by 7.7
+-D-E-L-I-M-I-T-E-R-
+Fix typo and improved algo for isAllDigits
+-D-E-L-I-M-I-T-E-R-
+Minor fix for issue #5815, only use SC_IV_LOOKFORWARD for Python like folding.
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml to 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Include additional Keyword Sets.
+-D-E-L-I-M-I-T-E-R-
+Changes for BaanC based on new Scintilla Version.
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml 7.7.2
+-D-E-L-I-M-I-T-E-R-
+Fix tab dragging on WINE and ReactOS
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Revert PR#4886 due to regressions and possible fix to original issue
+-D-E-L-I-M-I-T-E-R-
+plugin admin UI resizable
+-D-E-L-I-M-I-T-E-R-
+Code Enhancement
+-D-E-L-I-M-I-T-E-R-
+plugin admin date
+-D-E-L-I-M-I-T-E-R-
+plugin admin UI resizable
+-D-E-L-I-M-I-T-E-R-
+Update Arabic language to v7.7.2
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Fix bug in IDM_EDIT_CLEARREADONLY
+-D-E-L-I-M-I-T-E-R-
+Continuation of PR #5591 (workarround to MS ReadDirectoryChanges bug)
+-D-E-L-I-M-I-T-E-R-
+plugin admin UI enhancement
+-D-E-L-I-M-I-T-E-R-
+ Update Turkish Localization
+-D-E-L-I-M-I-T-E-R-
+Fix old text bug in hotkey menu
+-D-E-L-I-M-I-T-E-R-
+change.log typo fixed
+-D-E-L-I-M-I-T-E-R-
+Add CodeTriage badge to notepad-plus-plus/notepad-plus-plus
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Fix typo on change.log
+-D-E-L-I-M-I-T-E-R-
+Update korean.xml
+-D-E-L-I-M-I-T-E-R-
+Set embedded ASP default language to VB
+-D-E-L-I-M-I-T-E-R-
+Add CMake 3 commands
+-D-E-L-I-M-I-T-E-R-
+Add Python literal string interpolation
+-D-E-L-I-M-I-T-E-R-
+Use SCI_TARGETWHOLEDOCUMENT and SCI_COUNTCHARACTERS
+-D-E-L-I-M-I-T-E-R-
+Add literal string style to SQL lexer
+-D-E-L-I-M-I-T-E-R-
+Followup on issue #3467
+-D-E-L-I-M-I-T-E-R-
+Update AutoIt keywords
+-D-E-L-I-M-I-T-E-R-
+Add comment doc style to SQL lexer
+-D-E-L-I-M-I-T-E-R-
+plugins admin UI enhancement
+-D-E-L-I-M-I-T-E-R-
+Changes to include additional keyword sets and BaanC new changes base…
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: Unhiding top marker removes all other markers
+-D-E-L-I-M-I-T-E-R-
+Fix possible data loss on save failure
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml for vers. 7.6.6
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml ver. 7.6.5
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml ver. 7.6.5
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml ver. 7.6.5
+-D-E-L-I-M-I-T-E-R-
+added Tcl 8.6 keywords
+-D-E-L-I-M-I-T-E-R-
+Suggestion: Store scintilla sources as git submodule
+-D-E-L-I-M-I-T-E-R-
+update for appveyor CI build with updated scintilla 4.1.4 and vs2017
+-D-E-L-I-M-I-T-E-R-
+Update french.xml
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+changed for loop on line 56 to a range based for loop.
+-D-E-L-I-M-I-T-E-R-
+Feature request[#5574]: Copy file name too under folderAsWorkaspce
+-D-E-L-I-M-I-T-E-R-
+add capabilty to translate file summary dialog info
+-D-E-L-I-M-I-T-E-R-
+Bug Fix: Don't remove whole plugin System
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: When no plugin installed, Plugin Menu is not localized
+-D-E-L-I-M-I-T-E-R-
+Fixed File Monitoring Reload issue
+-D-E-L-I-M-I-T-E-R-
+update to marathi.xml
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Resolves #5493, Allows you to do CTRL + [ or ] or reduce or increase indentation
+-D-E-L-I-M-I-T-E-R-
+Improvements functionality for "Folder as workspace" panel
+-D-E-L-I-M-I-T-E-R-
+Localize "Restore recent close file" too
+-D-E-L-I-M-I-T-E-R-
+Fixed crash
+-D-E-L-I-M-I-T-E-R-
+Fixed defect #5516
+-D-E-L-I-M-I-T-E-R-
+Adjusted a few Swedish shortcuts in the Find dialog to avoid clashes.…
+-D-E-L-I-M-I-T-E-R-
+Update czech translation to v7.6.6
+-D-E-L-I-M-I-T-E-R-
+Make FunctionList sorting setting memorized between sessions
+-D-E-L-I-M-I-T-E-R-
+* fix non-idomatic use of std::remove_if
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Add contextual menu for file encoding in status bar
+-D-E-L-I-M-I-T-E-R-
+Enable Scintilla Virtual Space Option change from macro
+-D-E-L-I-M-I-T-E-R-
+Russian lang - revision and fixes
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml to v7.6.6
+-D-E-L-I-M-I-T-E-R-
+Remove Batang font for CSS tags
+-D-E-L-I-M-I-T-E-R-
+Add descriptions for plugins in installer
+-D-E-L-I-M-I-T-E-R-
+Save an HTTP redirect when going to website php.net
+-D-E-L-I-M-I-T-E-R-
+Update Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Updating Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Update english.xml
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.6.5
+-D-E-L-I-M-I-T-E-R-
+Support old Mac line endings in "Remove Consecutive Duplicate Lines" command
+-D-E-L-I-M-I-T-E-R-
+Add Verilog / SystemVerilog keywords 
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml to v7.6.5
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.6.5
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Fixed issue and allow some more characters in UDL name
+-D-E-L-I-M-I-T-E-R-
+Fix functionList.xml for php
+-D-E-L-I-M-I-T-E-R-
+Fixed detection of shorcut key conflicts when filtering
+-D-E-L-I-M-I-T-E-R-
+Updated Hindi Translation and corrected typo
+-D-E-L-I-M-I-T-E-R-
+Better 7.6.4 translation
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed multi cursor bugs
+-D-E-L-I-M-I-T-E-R-
+Regression: Fixed crash
+-D-E-L-I-M-I-T-E-R-
+PR to discuss about zoom value on status bar
+-D-E-L-I-M-I-T-E-R-
+Hindi support for installer
+-D-E-L-I-M-I-T-E-R-
+Fixed some UI glitch on Plugin Admin
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml to v7.6.4
+-D-E-L-I-M-I-T-E-R-
+Delete autoCompletion folder on uninstall
+-D-E-L-I-M-I-T-E-R-
+Minor whitespace fixes
+-D-E-L-I-M-I-T-E-R-
+Revert "Update uchardet to 0.0.6 to improve UTF-8 detection quality"
+-D-E-L-I-M-I-T-E-R-
+Remove redundant call to GetVersionEx
+-D-E-L-I-M-I-T-E-R-
+Ignore deprecation warning for GetVersionEx
+-D-E-L-I-M-I-T-E-R-
+Include filename in error message if SciLexer.dll fails to load
+-D-E-L-I-M-I-T-E-R-
+Update nppSetup.nsi
+-D-E-L-I-M-I-T-E-R-
+Added multicursor improvements
+-D-E-L-I-M-I-T-E-R-
+[PowerEditor installer nativeLang] Small Italian translation update
+-D-E-L-I-M-I-T-E-R-
+zulu and kurdish translation fix
+-D-E-L-I-M-I-T-E-R-
+Fixed a long waiting issue about file autto change detection
+-D-E-L-I-M-I-T-E-R-
+Remove some duplicate entries from lang files
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to 7.6.5
+-D-E-L-I-M-I-T-E-R-
+Added Missing Styles to Deep Black
+-D-E-L-I-M-I-T-E-R-
+Update Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Johab
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.6.3
+-D-E-L-I-M-I-T-E-R-
+duplicate quote and typo
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Bug fix: Open/Save file hangs
+-D-E-L-I-M-I-T-E-R-
+On program update, remove old autoCompletion directory if empty
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Fixed regression and support localization for "Open Plugins Folder..."
+-D-E-L-I-M-I-T-E-R-
+add encoding Korean(Johab)
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Some more enhnacement
+-D-E-L-I-M-I-T-E-R-
+Make FunctionList sorting setting memorized between sessions
+-D-E-L-I-M-I-T-E-R-
+Performance improvement
+-D-E-L-I-M-I-T-E-R-
+[Potential crash cause]: Fixed macro playback junk char issue
+-D-E-L-I-M-I-T-E-R-
+Localization: Update Hindi
+-D-E-L-I-M-I-T-E-R-
+Don't allow restricted characters for tab file rename
+-D-E-L-I-M-I-T-E-R-
+Support More localization
+-D-E-L-I-M-I-T-E-R-
+Merge
+-D-E-L-I-M-I-T-E-R-
+Crash Fixed: Regression
+-D-E-L-I-M-I-T-E-R-
+Bug Fix for Tab context menu
+-D-E-L-I-M-I-T-E-R-
+Feature: Support rename for unnamed tabs
+-D-E-L-I-M-I-T-E-R-
+Fixed build error VS2017
+-D-E-L-I-M-I-T-E-R-
+LordNyriox/appveyor1
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for 7.6.3
+-D-E-L-I-M-I-T-E-R-
+Only checking for filesystem changes when the tab is selected
+-D-E-L-I-M-I-T-E-R-
+Cleanup AppVeyor Artifact code
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml to version 7.6.2
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml for version 7.6.2
+-D-E-L-I-M-I-T-E-R-
+Remove autocomplete directory on uninstall
+-D-E-L-I-M-I-T-E-R-
+No more dummy in config file
+-D-E-L-I-M-I-T-E-R-
+Allow undo after file reload and don't purge undo buffer
+-D-E-L-I-M-I-T-E-R-
+#5236 japanese translation of “find in file” window tabs broken
+-D-E-L-I-M-I-T-E-R-
+binary translations page not display zulu language 
+-D-E-L-I-M-I-T-E-R-
+Add confirmation dialog for "Replace All in All Opened Documents"
+-D-E-L-I-M-I-T-E-R-
+merge
+-D-E-L-I-M-I-T-E-R-
+merge
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Updated slovak.xml to version 7.6.2
+-D-E-L-I-M-I-T-E-R-
+modify Simplified Chinese translation
+-D-E-L-I-M-I-T-E-R-
+Add 'Open Plugins Folder...' menu command
+-D-E-L-I-M-I-T-E-R-
+Update langs.model.xml
+-D-E-L-I-M-I-T-E-R-
+chinese.xml
+-D-E-L-I-M-I-T-E-R-
+Make exception error more clear
+-D-E-L-I-M-I-T-E-R-
+Updated Parameters.cpp
+-D-E-L-I-M-I-T-E-R-
+Update danish.xml to 7.6.2
+-D-E-L-I-M-I-T-E-R-
+Import TLDatLexer
+-D-E-L-I-M-I-T-E-R-
+Remove "r" from ext for Rebol
+-D-E-L-I-M-I-T-E-R-
+Updated Russian 7.6.2 (ShortcutMapper, SHA)
+-D-E-L-I-M-I-T-E-R-
+Fixed issue of splitter panes not being equal
+-D-E-L-I-M-I-T-E-R-
+Pig latin update: Added SHA-256 changes
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml
+-D-E-L-I-M-I-T-E-R-
+Added close unchanged tabs menu option
+-D-E-L-I-M-I-T-E-R-
+Added shift + scroll for horizontal scrolling
+-D-E-L-I-M-I-T-E-R-
+Zulu Language is accpted but not show on binary transaltion page
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update Turkish Localization
+-D-E-L-I-M-I-T-E-R-
+Add color for start screen tiles in windows 10
+-D-E-L-I-M-I-T-E-R-
+Updated italian to 7.6.2
+-D-E-L-I-M-I-T-E-R-
+Update functionList.xml C++ parser
+-D-E-L-I-M-I-T-E-R-
+Update german.xml (48503, SHA-256, ...)
+-D-E-L-I-M-I-T-E-R-
+Update chinese.xml (Try again)
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.6.2
+-D-E-L-I-M-I-T-E-R-
+Add Missing NSIS Commands to Deep Black.xml
+-D-E-L-I-M-I-T-E-R-
+Added missing styles to Zenburn theme for PowerShell
+-D-E-L-I-M-I-T-E-R-
+add zulu.xml (given chnages done) 
+-D-E-L-I-M-I-T-E-R-
+Update rust keywords and types for 2018 edition
+-D-E-L-I-M-I-T-E-R-
+Add zulu.xml
+-D-E-L-I-M-I-T-E-R-
+Update belarusian.xml
+-D-E-L-I-M-I-T-E-R-
+Updated piglatin file
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed issue #1898 by using a fold level stack.
+-D-E-L-I-M-I-T-E-R-
+Added workspace file sorting
+-D-E-L-I-M-I-T-E-R-
+add support for GB18030
+-D-E-L-I-M-I-T-E-R-
+Update chinese.xml
+-D-E-L-I-M-I-T-E-R-
+Double click splitter resets panes to equal size
+-D-E-L-I-M-I-T-E-R-
+update chineseSimplied.xml
+-D-E-L-I-M-I-T-E-R-
+fix invalid xml syntax issue from #4572
+-D-E-L-I-M-I-T-E-R-
+Added nonlocal and moved async and await according to lexicographical order
+-D-E-L-I-M-I-T-E-R-
+URI parsing: enhance URI identification ignoring loose trailing characters
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml
+-D-E-L-I-M-I-T-E-R-
+fixed for change Chinese display name GB2312 to GBK
+-D-E-L-I-M-I-T-E-R-
+Update german.xml (48503, SHA-256, ...)
+-D-E-L-I-M-I-T-E-R-
+Add Command Line Open-As-Workspace Flag (Issue #4253)
+-D-E-L-I-M-I-T-E-R-
+Enhancement: Make readonly tab identifiable even if tab is not active
+-D-E-L-I-M-I-T-E-R-
+Update with plugins admin
+-D-E-L-I-M-I-T-E-R-
+Fix status bar messages in dialog of the Mark All command
+-D-E-L-I-M-I-T-E-R-
+Xml syntax check failing
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml for Plugins Admin
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update spanish.xml
+-D-E-L-I-M-I-T-E-R-
+Update occitan.xml
+-D-E-L-I-M-I-T-E-R-
+DLang keywords update
+-D-E-L-I-M-I-T-E-R-
+Adds missing translation entries for menu items
+-D-E-L-I-M-I-T-E-R-
+Update german.xml (with Plugins Admin)
+-D-E-L-I-M-I-T-E-R-
+Corrected minor typos
+-D-E-L-I-M-I-T-E-R-
+Localization: Update Hindi
+-D-E-L-I-M-I-T-E-R-
+Corrected GENERAL
+-D-E-L-I-M-I-T-E-R-
+Update pluginsAdmin.h, using _TCHAR and _istdigit() 
+-D-E-L-I-M-I-T-E-R-
+PHP: Add styler entry for complex variables
+-D-E-L-I-M-I-T-E-R-
+Adjust displayed name for Swift language in stylers
+-D-E-L-I-M-I-T-E-R-
+Update displayed name for Fortran language in themes
+-D-E-L-I-M-I-T-E-R-
+Update text displayed in summary panel
+-D-E-L-I-M-I-T-E-R-
+Fix german.xml
+-D-E-L-I-M-I-T-E-R-
+Fix menu bar for Hebrew
+-D-E-L-I-M-I-T-E-R-
+Update Brazilian Portuguese translation
+-D-E-L-I-M-I-T-E-R-
+Add new JavaScript API for auto-completion
+-D-E-L-I-M-I-T-E-R-
+Added missing lines for russian.xml (added PluginsAdminDlg)
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: header/footer font issue for print
+-D-E-L-I-M-I-T-E-R-
+Update chinese.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed file association bugs and enhancement
+-D-E-L-I-M-I-T-E-R-
+Use the _isFolding flag to fix several overlooked edge case hangs.
+-D-E-L-I-M-I-T-E-R-
+Fix auto-indent - Issue #443
+-D-E-L-I-M-I-T-E-R-
+Add comment on shortcut(installer)
+-D-E-L-I-M-I-T-E-R-
+[Feature Request]: Retain read only flag state in session as well
+-D-E-L-I-M-I-T-E-R-
+Crash fix for invalid input path
+-D-E-L-I-M-I-T-E-R-
+Lua auto completion
+-D-E-L-I-M-I-T-E-R-
+AutoIt autoCompletion
+-D-E-L-I-M-I-T-E-R-
+Swedish translation typo: Spelling 'öpnnas' should be 'öppnas'
+-D-E-L-I-M-I-T-E-R-
+german.xml: fix typo
+-D-E-L-I-M-I-T-E-R-
+Improved deleteMarkedLines
+-D-E-L-I-M-I-T-E-R-
+Avoiding loading / verifying SciLexer.dll in a static initializer.
+-D-E-L-I-M-I-T-E-R-
+Updated Turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Italian Translation: Fixed typo in xml string
+-D-E-L-I-M-I-T-E-R-
+Fixed Typos in quote eastereggs
+-D-E-L-I-M-I-T-E-R-
+[WIP] Installer is DPI-aware
+-D-E-L-I-M-I-T-E-R-
+Fixed memory leak
+-D-E-L-I-M-I-T-E-R-
+Update chinese.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed Read-Only flag (user read only) syncing issue
+-D-E-L-I-M-I-T-E-R-
+CTRL+F4 does not close tab #4679
+-D-E-L-I-M-I-T-E-R-
+Fixed Doc switcher issue
+-D-E-L-I-M-I-T-E-R-
+Polish translation: Ampersand fix
+-D-E-L-I-M-I-T-E-R-
+Update swedish.xml
+-D-E-L-I-M-I-T-E-R-
+Remove DIRECTIVE from VHDL styles table
+-D-E-L-I-M-I-T-E-R-
+Update uchardet to 0.0.6
+-D-E-L-I-M-I-T-E-R-
+Support wildcard patterns in File-Open dialog
+-D-E-L-I-M-I-T-E-R-
+Fix UTF-8 detection for 4 byte characters
+-D-E-L-I-M-I-T-E-R-
+Fix "Close all but this" behaviour if multiple views are present
+-D-E-L-I-M-I-T-E-R-
+Fixed Issue : Typo creates localization issue
+-D-E-L-I-M-I-T-E-R-
+Fix issue with false smart highlighting (thanks to Yaron)
+-D-E-L-I-M-I-T-E-R-
+Bugfix Tab dragging
+-D-E-L-I-M-I-T-E-R-
+Fix issue #3996: Use the _isFolding flag to avoid expensive redundant operations that …
+-D-E-L-I-M-I-T-E-R-
+Update Malayalam translation
+-D-E-L-I-M-I-T-E-R-
+Update Malayalam translation
+-D-E-L-I-M-I-T-E-R-
+Translation: Hindi translation improvement
+-D-E-L-I-M-I-T-E-R-
+Update Malayalam translation
+-D-E-L-I-M-I-T-E-R-
+German typos
+-D-E-L-I-M-I-T-E-R-
+Add color for start screen tiles in windows 10
+-D-E-L-I-M-I-T-E-R-
+Update slovenian.xml
+-D-E-L-I-M-I-T-E-R-
+updated hindi.xml
+-D-E-L-I-M-I-T-E-R-
+Fix possible file corruption during backup or power loss or other abn…
+-D-E-L-I-M-I-T-E-R-
+Write out MS as Microsoft
+-D-E-L-I-M-I-T-E-R-
+Improve grammar during installation
+-D-E-L-I-M-I-T-E-R-
+update german.xml
+-D-E-L-I-M-I-T-E-R-
+ Swedish: Add access keys
+-D-E-L-I-M-I-T-E-R-
+Make the MinGW/GCC build work again
+-D-E-L-I-M-I-T-E-R-
+Updated chinese.xml
+-D-E-L-I-M-I-T-E-R-
+Delete Shell Extension dll more effectively
+-D-E-L-I-M-I-T-E-R-
+Fix regression - Plugin and sub directories not removed
+-D-E-L-I-M-I-T-E-R-
+Update Arabic language to v7.5.5
+-D-E-L-I-M-I-T-E-R-
+Updating standard plugin list
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: Tail monitoring does malfunctioning
+-D-E-L-I-M-I-T-E-R-
+On doClose() delete the right backup file
+-D-E-L-I-M-I-T-E-R-
+Update for new WinGup
+-D-E-L-I-M-I-T-E-R-
+Fix backup not fully disabled
+-D-E-L-I-M-I-T-E-R-
+Update chinese.xml
+-D-E-L-I-M-I-T-E-R-
+update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update chinese.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: Last active tab is ignored on N++ restart
+-D-E-L-I-M-I-T-E-R-
+Big Update of the Translation of Chinese (Trad.)
+-D-E-L-I-M-I-T-E-R-
+Csharp autocompletion
+-D-E-L-I-M-I-T-E-R-
+Update a couple broken URLs
+-D-E-L-I-M-I-T-E-R-
+Change to archived version of the page
+-D-E-L-I-M-I-T-E-R-
+Improve Installer (Fixes #4083)
+-D-E-L-I-M-I-T-E-R-
+Confusion with BOM FIX (Rus locale)
+-D-E-L-I-M-I-T-E-R-
+introduce new NPPM_REMOVESHORTCUTBYCMDID 
+-D-E-L-I-M-I-T-E-R-
+Fix "Explorer Here" from "Folder as Workspace" problem if folder name contains comma 
+-D-E-L-I-M-I-T-E-R-
+Fixed Regression issue: Folder as workspace not updating dir changes
+-D-E-L-I-M-I-T-E-R-
+Fixed crash Issue by checking & unchecking "Disable extension column" in preferences dialog
+-D-E-L-I-M-I-T-E-R-
+Add OS version and build number to debug info
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update Czech translation
+-D-E-L-I-M-I-T-E-R-
+Swedish.xml aligned with english.xml, fixed typos and corrected translations
+-D-E-L-I-M-I-T-E-R-
+Fix scintilla restoring wrapped buffer issue
+-D-E-L-I-M-I-T-E-R-
+Fix for "Notepad++ can crash by launching it with specific commandline"
+-D-E-L-I-M-I-T-E-R-
+Implemented Wish: "ignore first item" command line argument (for replacing Notepad)
+-D-E-L-I-M-I-T-E-R-
+Restore window drawing after aborted shutdown
+-D-E-L-I-M-I-T-E-R-
+Find in Project Panel files
+-D-E-L-I-M-I-T-E-R-
+Add w/ BOM and remove w/o BOM in Russian locale
+-D-E-L-I-M-I-T-E-R-
+Fix remaining format specifier warnings
+-D-E-L-I-M-I-T-E-R-
+ Update portuguese Brazilian translation
+-D-E-L-I-M-I-T-E-R-
+Encoding menu : Fix and add missing options
+-D-E-L-I-M-I-T-E-R-
+Added 2 pdf files detailing steps for building Notepad++ with…
+-D-E-L-I-M-I-T-E-R-
+Fix incorrect document map highlight when scrolling past end of file.
+-D-E-L-I-M-I-T-E-R-
+fixes issue #4572
+-D-E-L-I-M-I-T-E-R-
+Update korean.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed pointer truncations
+-D-E-L-I-M-I-T-E-R-
+Operate on UTC timestamps internally + deprecate stat/wstat
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml
+-D-E-L-I-M-I-T-E-R-
+Add IAR Embedded Workbench file extensions to XML
+-D-E-L-I-M-I-T-E-R-
+english.xml: add short key in find dialog
+-D-E-L-I-M-I-T-E-R-
+Fixed issue #4526
+-D-E-L-I-M-I-T-E-R-
+Fix Unicode Problem.  Issue Name 'On Debug Build, Korean Input has As…
+-D-E-L-I-M-I-T-E-R-
+Supressed reload dialog when Monitoring is enabled  #3142
+-D-E-L-I-M-I-T-E-R-
+Cleanup in context menu and Run entries (resubmit)
+-D-E-L-I-M-I-T-E-R-
+make carret line always visible in the find panel
+-D-E-L-I-M-I-T-E-R-
+Cleanup in context menu and Run entries
+-D-E-L-I-M-I-T-E-R-
+I modified the GUI 
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+fix 2 bugs #3805 , #3504
+-D-E-L-I-M-I-T-E-R-
+Update Indonesian.xml
+-D-E-L-I-M-I-T-E-R-
+Russian for 7.5.6 (sry for dupl.)
+-D-E-L-I-M-I-T-E-R-
+Add autocompletion file for AutoIt
+-D-E-L-I-M-I-T-E-R-
+#2433 Initial implementation of folder exclusion find in files.
+-D-E-L-I-M-I-T-E-R-
+More improvement towords C# intellisense
+-D-E-L-I-M-I-T-E-R-
+Changed Sort Lines as Integers to use Natural Sort
+-D-E-L-I-M-I-T-E-R-
+Update marathi.xml
+-D-E-L-I-M-I-T-E-R-
+Remove "from" which is not a reserved JavaScript keyword
+-D-E-L-I-M-I-T-E-R-
+Fix properties menu french translation 
+-D-E-L-I-M-I-T-E-R-
+Fixed issue #4396: Unable to move untitled / dirty files from one n++ instance to another
+-D-E-L-I-M-I-T-E-R-
+Added feature for issue #4385: Close all tabs without saving
+-D-E-L-I-M-I-T-E-R-
+correct typo STRT_REPLACE -> STR_REPLACE to fix issue #4354
+-D-E-L-I-M-I-T-E-R-
+Fix issue 4192: Added close all as option in context
+-D-E-L-I-M-I-T-E-R-
+Fix issue #3996 extremely slow performance opening fully-folded deeply-nested files
+-D-E-L-I-M-I-T-E-R-
+fix the bug about (fail to build boost ) #1228
+-D-E-L-I-M-I-T-E-R-
+Fixed UDL export extension issue
+-D-E-L-I-M-I-T-E-R-
+Updated Hindi Translation
+-D-E-L-I-M-I-T-E-R-
+Various improvements to wording and punctuation in README.md
+-D-E-L-I-M-I-T-E-R-
+Added in the Character Panel two new columns showing HTML Codes
+-D-E-L-I-M-I-T-E-R-
+Added in the Character Panel two new columns showing HTML Codes
+-D-E-L-I-M-I-T-E-R-
+Make addExt and deleteExts more robust
+-D-E-L-I-M-I-T-E-R-
+make URL highlighting/formatting unicode aware
+-D-E-L-I-M-I-T-E-R-
+Make addExt and deleteExts more robust - mess will be recreated
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml to version 7.5.6
+-D-E-L-I-M-I-T-E-R-
+Update FileDialog.cpp
+-D-E-L-I-M-I-T-E-R-
+Update dutch.xml
+-D-E-L-I-M-I-T-E-R-
+Place program shortcut in top-level Start folder; fix issue #2143
+-D-E-L-I-M-I-T-E-R-
+Updated slovak language file for the latest Notepad++ version.
+-D-E-L-I-M-I-T-E-R-
+Update Turkish translation
+-D-E-L-I-M-I-T-E-R-
+Adapted Russian for last version - 7.5.6
+-D-E-L-I-M-I-T-E-R-
+Get rid of ATL dependency
+-D-E-L-I-M-I-T-E-R-
+Various fixes in french.xml
+-D-E-L-I-M-I-T-E-R-
+Russian Localization: Rename Encodings in Main menu to reflect consistently line endlings (CR/CR LF/LF)
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.5.6 & small fix
+-D-E-L-I-M-I-T-E-R-
+Create portuguese_customizable.xml
+-D-E-L-I-M-I-T-E-R-
+Update german
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for 7.5.5
+-D-E-L-I-M-I-T-E-R-
+Update Portuguese Translation
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian translation
+-D-E-L-I-M-I-T-E-R-
+Update hungarian.xml file
+-D-E-L-I-M-I-T-E-R-
+Update Powershell Lexer
+-D-E-L-I-M-I-T-E-R-
+Fix #4294: english.xml is not match to GUI texts
+-D-E-L-I-M-I-T-E-R-
+Swedish: Add missing localizations
+-D-E-L-I-M-I-T-E-R-
+Updated Dutch translation
+-D-E-L-I-M-I-T-E-R-
+Update Hindi and remove duplicate translation
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.5.5
+-D-E-L-I-M-I-T-E-R-
+Update Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Fix crash
+-D-E-L-I-M-I-T-E-R-
+Update thai.xml
+-D-E-L-I-M-I-T-E-R-
+Save function v1
+-D-E-L-I-M-I-T-E-R-
+Regexp backreference \0 not properly handled
+-D-E-L-I-M-I-T-E-R-
+function list: Perl function regex update
+-D-E-L-I-M-I-T-E-R-
+Update french.xml
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian localization
+-D-E-L-I-M-I-T-E-R-
+Fixed a piece of code
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.5.5 with "Make new entries translatable"
+-D-E-L-I-M-I-T-E-R-
+add translation for entering Administrator mode
+-D-E-L-I-M-I-T-E-R-
+Update Hindi Translation
+-D-E-L-I-M-I-T-E-R-
+Update Hindi Translation
+-D-E-L-I-M-I-T-E-R-
+Plugins cannot know file status (RO or snapshot dirty) while Notepad++ start up (Fix #4201)
+-D-E-L-I-M-I-T-E-R-
+I found a comment with TODO in file and closed it
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml for v7.5.5
+-D-E-L-I-M-I-T-E-R-
+Fit accesskeys of the main menu to English behavior
+-D-E-L-I-M-I-T-E-R-
+File status detection under Windows XP (32-bit only)
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update : Thai.xml [Convert to UTF-8] base english.xml
+-D-E-L-I-M-I-T-E-R-
+Make column names translatable in Window->Window...
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+File status detection under Windows XP, 32-bit only
+-D-E-L-I-M-I-T-E-R-
+Update belarusian translation
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml for version 7.5.5
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.5.5 with fixes
+-D-E-L-I-M-I-T-E-R-
+Fixed the czech.xml v7.5.5
+-D-E-L-I-M-I-T-E-R-
+Kurdish seems to be RTL
+-D-E-L-I-M-I-T-E-R-
+A few corrections (. . ., "?", " + ", "CMD")
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml to v7.5.5
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v7.5.5
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update Turkish localization
+-D-E-L-I-M-I-T-E-R-
+Update occitan.xml localisation to v.7.5.5
+-D-E-L-I-M-I-T-E-R-
+Fix drag and drop erroneously being enabled
+-D-E-L-I-M-I-T-E-R-
+enhance ShortcutMapper behavior while resizing:
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Keep Doc Switcher's Tab ordering in sync
+-D-E-L-I-M-I-T-E-R-
+fix shortcut validity with shift keyCombo
+-D-E-L-I-M-I-T-E-R-
+Update korean.xml
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update javascript.xml
+-D-E-L-I-M-I-T-E-R-
+Warning/error fixes as per VS2017 code analysis
+-D-E-L-I-M-I-T-E-R-
+[Hindi] Updated localization
+-D-E-L-I-M-I-T-E-R-
+Don't halt find/replace operation because of large file
+-D-E-L-I-M-I-T-E-R-
+Correctly use const qualifier for variables holding string literals
+-D-E-L-I-M-I-T-E-R-
+Fix for #3895 Workaround Windows bug
+-D-E-L-I-M-I-T-E-R-
+update makefile for mingw gcc builds
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Major improvements to C# intellisense
+-D-E-L-I-M-I-T-E-R-
+Fix Unicode file name comparision to match Windows behaviour
+-D-E-L-I-M-I-T-E-R-
+Don't halt find/replace operation because of large file
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.5.5
+-D-E-L-I-M-I-T-E-R-
+Simplify and fix memory leak in getSpecialFolderLocation
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.5.5
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Update danish.xml to 7.5.5
+-D-E-L-I-M-I-T-E-R-
+Improvements to C# intellisense
+-D-E-L-I-M-I-T-E-R-
+Extracted parts of FileManager::reloadBuffer and FileManager::loadFile to a separate func
+-D-E-L-I-M-I-T-E-R-
+Menu item's state is not maintained
+-D-E-L-I-M-I-T-E-R-
+Function List Tracks Editing Pane Cursor (Issue715)
+-D-E-L-I-M-I-T-E-R-
+Add translation for almost all strings
+-D-E-L-I-M-I-T-E-R-
+Farsi and Uyghur are RTL language
+-D-E-L-I-M-I-T-E-R-
+Use reversed header image for RTL installer
+-D-E-L-I-M-I-T-E-R-
+Corrected CoffeeScript file extension
+-D-E-L-I-M-I-T-E-R-
+Added bunch of improvements to C# intellisense
+-D-E-L-I-M-I-T-E-R-
+Update bulgarian.xml
+-D-E-L-I-M-I-T-E-R-
+Did bunch of improvements to C# intellisense
+-D-E-L-I-M-I-T-E-R-
+Shortcut Mapper filter
+-D-E-L-I-M-I-T-E-R-
+Code improvement
+-D-E-L-I-M-I-T-E-R-
+Commandline support for few missing languages
+-D-E-L-I-M-I-T-E-R-
+Added more improvements to C# intellisense
+-D-E-L-I-M-I-T-E-R-
+Update code in FileManager::reloadBuffer to correctly detect line endings and encoding
+-D-E-L-I-M-I-T-E-R-
+Refactor cutString to remove an arbitrary MAX_PATH character limit (fix for #2727)
+-D-E-L-I-M-I-T-E-R-
+avoid crash of #2727
+-D-E-L-I-M-I-T-E-R-
+[Fixed issue] - Wrong Localization
+-D-E-L-I-M-I-T-E-R-
+Update ReadMe and Remove V2013 project
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.5.4
+-D-E-L-I-M-I-T-E-R-
+Updated some strings in romanian.xml
+-D-E-L-I-M-I-T-E-R-
+UserDefineDialog.cpp: Fix minor typo
+-D-E-L-I-M-I-T-E-R-
+[Fixed issue] - Detect Line ending changes on Reload
+-D-E-L-I-M-I-T-E-R-
+Improve installer
+-D-E-L-I-M-I-T-E-R-
+heavy COBOL update, first support within function list and auto-completion
+-D-E-L-I-M-I-T-E-R-
+Fix highlighting of <script> tags in XML files
+-D-E-L-I-M-I-T-E-R-
+Fix broken indices in EncodingMapper
+-D-E-L-I-M-I-T-E-R-
+VB: Remove duplicate automcomplete keywords
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for 7.5.3
+-D-E-L-I-M-I-T-E-R-
+Added keywords auto-completion for CoffeeScript
+-D-E-L-I-M-I-T-E-R-
+Remove duplicate keywords for autocompletion
+-D-E-L-I-M-I-T-E-R-
+Fix 9f0ba445 typo
+-D-E-L-I-M-I-T-E-R-
+Keep existing context menu text (Edit with Notepad++)
+-D-E-L-I-M-I-T-E-R-
+7.5 HUN
+-D-E-L-I-M-I-T-E-R-
+RFC: Normalize forward slashes in open file dialog
+-D-E-L-I-M-I-T-E-R-
+Merge pull request #1 from notepad-plus-plus/master
+-D-E-L-I-M-I-T-E-R-
+Fixed Dspell issues
+-D-E-L-I-M-I-T-E-R-
+Regression: Fixed multiple issues
+-D-E-L-I-M-I-T-E-R-
+I've done TODO
+-D-E-L-I-M-I-T-E-R-
+Updated multiline comments in Cmake. Now they are correctly highliting.
+-D-E-L-I-M-I-T-E-R-
+I've done TODO
+-D-E-L-I-M-I-T-E-R-
+Add Auto Completion for BaanC
+-D-E-L-I-M-I-T-E-R-
+Update french.xml
+-D-E-L-I-M-I-T-E-R-
+Fix spanish translation for "tail"
+-D-E-L-I-M-I-T-E-R-
+cmake config update
+-D-E-L-I-M-I-T-E-R-
+Fix #3861 - Automplete detecting unwanted symbols
+-D-E-L-I-M-I-T-E-R-
+I've done TODO and fixed issue #3910
+-D-E-L-I-M-I-T-E-R-
+Abort highlight search if the selection crosses a line boundry
+-D-E-L-I-M-I-T-E-R-
+Split the character counting into two cases based on encoding allowin…
+-D-E-L-I-M-I-T-E-R-
+Enhanced and added more C# keywords
+-D-E-L-I-M-I-T-E-R-
+Fix #3863 - Ctrl+A Keyboard shortcut doesn't work in the MD5 Generator
+-D-E-L-I-M-I-T-E-R-
+Fix #1017 - GDI objects leak
+-D-E-L-I-M-I-T-E-R-
+Fix #2049 - Request: Mute sound on find
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Fix for "Monitoring" doesn't detect changes #3142
+-D-E-L-I-M-I-T-E-R-
+Update romanian.xml
+-D-E-L-I-M-I-T-E-R-
+Fix #3868 - Menu key does not work in Project Panel
+-D-E-L-I-M-I-T-E-R-
+Fix for "Toggle Single Line Comment" malfunctioning with HTML/XML
+-D-E-L-I-M-I-T-E-R-
+Fix static analyzer issues
+-D-E-L-I-M-I-T-E-R-
+Fix PVS-Studio high severity messages
+-D-E-L-I-M-I-T-E-R-
+BaanC Sections in functionlist.xml
+-D-E-L-I-M-I-T-E-R-
+Update belarusian.xml
+-D-E-L-I-M-I-T-E-R-
+Fix "Encode in ..." Menu
+-D-E-L-I-M-I-T-E-R-
+adding sass
+-D-E-L-I-M-I-T-E-R-
+correct appveyor CI config
+-D-E-L-I-M-I-T-E-R-
+Update spanish.xml
+-D-E-L-I-M-I-T-E-R-
+Update Arabic language file
+-D-E-L-I-M-I-T-E-R-
+Translation
+-D-E-L-I-M-I-T-E-R-
+Fix crash when too many directory changes happens
+-D-E-L-I-M-I-T-E-R-
+Function list for Python scripts
+-D-E-L-I-M-I-T-E-R-
+Translations: Chinese(Taiwan): Replace tab indentation to align with rest of the style
+-D-E-L-I-M-I-T-E-R-
+Shortcut Mapper is resizable and maximizable
+-D-E-L-I-M-I-T-E-R-
+Fixed hang issue while opening JavaScript file
+-D-E-L-I-M-I-T-E-R-
+Update Italian translation to version 7.5.1
+-D-E-L-I-M-I-T-E-R-
+Fixed sort lines on columns if range includes lines shorter than sele…
+-D-E-L-I-M-I-T-E-R-
+Removed unused/empty encoding
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml
+-D-E-L-I-M-I-T-E-R-
+Write version info to installer
+-D-E-L-I-M-I-T-E-R-
+Regression: Fixed Nsis warning
+-D-E-L-I-M-I-T-E-R-
+Installer components page smalldesc
+-D-E-L-I-M-I-T-E-R-
+Nitpicking - quotations
+-D-E-L-I-M-I-T-E-R-
+Add PL/SQL to FunctionList
+-D-E-L-I-M-I-T-E-R-
+Fix check sign in Encoding menu not always shown
+-D-E-L-I-M-I-T-E-R-
+Updated existing solution to Visual Studio 2017 and added Scintilla project in it.
+-D-E-L-I-M-I-T-E-R-
+fix feedScintKeys when more than two shortcuts are configured
+-D-E-L-I-M-I-T-E-R-
+Possible solution for issue #3724
+-D-E-L-I-M-I-T-E-R-
+harmonization of the encoding name in status bar
+-D-E-L-I-M-I-T-E-R-
+Language menu and Style configurator sorted alphabetically
+-D-E-L-I-M-I-T-E-R-
+Add version badge to README
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Update Indonesian Translation
+-D-E-L-I-M-I-T-E-R-
+FunctionList for BaanC Language
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v7.5.1
+-D-E-L-I-M-I-T-E-R-
+Update of russian translation of menu items for a single style
+-D-E-L-I-M-I-T-E-R-
+Fixed issue and disabled lexer signature checking in debug mode
+-D-E-L-I-M-I-T-E-R-
+Aligned the installation script
+-D-E-L-I-M-I-T-E-R-
+Fixed typo in help text
+-D-E-L-I-M-I-T-E-R-
+Auto compelte for Batch
+-D-E-L-I-M-I-T-E-R-
+BaanC Function List xml changes
+-D-E-L-I-M-I-T-E-R-
+Fix Python the variable "def" not working correctly in Function List
+-D-E-L-I-M-I-T-E-R-
+BaanC FunctionList
+-D-E-L-I-M-I-T-E-R-
+Fix: Function list doesnt not work for C# files #3643
+-D-E-L-I-M-I-T-E-R-
+FunctionList update: Add parser for Pascal/Delphi
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian translation
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml to v7.5
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update danish translation to 7.5
+-D-E-L-I-M-I-T-E-R-
+[Regression] Fixed Localization issue.
+-D-E-L-I-M-I-T-E-R-
+Shortcut improvements
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.5
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml to v7.5
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.5
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.5
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml for 7.4.2
+-D-E-L-I-M-I-T-E-R-
+[Hindi] Update Localization
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml
+-D-E-L-I-M-I-T-E-R-
+Do not reload function list when switching to the same file in cloned view
+-D-E-L-I-M-I-T-E-R-
+Improve file extension movement between ListBox
+-D-E-L-I-M-I-T-E-R-
+Fixed issue and corrected code
+-D-E-L-I-M-I-T-E-R-
+Shortcut improvements
+-D-E-L-I-M-I-T-E-R-
+Code improvement
+-D-E-L-I-M-I-T-E-R-
+FindReplace dialog: Introduce replace backwards option & language id for
+-D-E-L-I-M-I-T-E-R-
+Opens file in its default viewer. Has the same effect as double–click ing this file in Windows Explorer
+-D-E-L-I-M-I-T-E-R-
+winmain: fix command line argument parsing
+-D-E-L-I-M-I-T-E-R-
+Corrected typo
+-D-E-L-I-M-I-T-E-R-
+Add "Fortran (fixed form)" in not compact Language menu (in addition to foo "Fortran (free form)")
+-D-E-L-I-M-I-T-E-R-
+[Hindi] update Localization
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to 7.4.2
+-D-E-L-I-M-I-T-E-R-
+Fixed monitoring related issuse and corrected code
+-D-E-L-I-M-I-T-E-R-
+Make sure previous tab does not keep focus when switching tabs.
+-D-E-L-I-M-I-T-E-R-
+Miscellaneous source text "corrections"
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Merge pull request #1 from notepad-plus-plus/master
+-D-E-L-I-M-I-T-E-R-
+Appveyor CI image update
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml to v7.4.2
+-D-E-L-I-M-I-T-E-R-
+[Installer] Fixed typo
+-D-E-L-I-M-I-T-E-R-
+Fix wrong File encoding auto-detection problem : binary file is detected as UTF-16 little-endian
+-D-E-L-I-M-I-T-E-R-
+Update italian translation for 7.4.2 version
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: [check menu and icon when folder is dragged n dropped]
+-D-E-L-I-M-I-T-E-R-
+Fixed issue #3384 [same file in mutliple tab]
+-D-E-L-I-M-I-T-E-R-
+Fixes #3246
+-D-E-L-I-M-I-T-E-R-
+Make a copy of the command line so as to stop modifying the original
+-D-E-L-I-M-I-T-E-R-
+Multiple Search Result Tabs
+-D-E-L-I-M-I-T-E-R-
+Try to make universal Visual Studio 2013-2017 project
+-D-E-L-I-M-I-T-E-R-
+Fixed problems found by VS 2017
+-D-E-L-I-M-I-T-E-R-
+Issue 804 open new tab next to active tab
+-D-E-L-I-M-I-T-E-R-
+lang: Cleanup strange "&amp;" for both [en] [de] and finally fix "sea…
+-D-E-L-I-M-I-T-E-R-
+Created Visual studio 2017 target and Fixed Duplicate menu Shortcut for save all and close all
+-D-E-L-I-M-I-T-E-R-
+Fixed cppChecker reported issues
+-D-E-L-I-M-I-T-E-R-
+Update Swedish translation to 7.4.2
+-D-E-L-I-M-I-T-E-R-
+Fixed some coding mistake
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.4.2 with newest fixes
+-D-E-L-I-M-I-T-E-R-
+Do not treat strings with spaces as file extensions in the save dialog.
+-D-E-L-I-M-I-T-E-R-
+Created a project file for Visual studio 2017
+-D-E-L-I-M-I-T-E-R-
+Fixed PVS-Studio static analyser reported issues
+-D-E-L-I-M-I-T-E-R-
+Fix toolset flag parsing for BuildBoost.bat
+-D-E-L-I-M-I-T-E-R-
+[English & Hindi]: Localization for find dialog
+-D-E-L-I-M-I-T-E-R-
+Addition of multiple finders
+-D-E-L-I-M-I-T-E-R-
+Remove WS_EX_TOOLWINDOW style from dialog windows.
+-D-E-L-I-M-I-T-E-R-
+Add foreground colours for diff in Monokai.xml
+-D-E-L-I-M-I-T-E-R-
+Message box on bad_alloc
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Fixed potential memory leak, found by Cppcheck.
+-D-E-L-I-M-I-T-E-R-
+Fixed text selection in combo boxes on FindReplace dialog resize
+-D-E-L-I-M-I-T-E-R-
+Update spanish.xml
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.4.2
+-D-E-L-I-M-I-T-E-R-
+Remember empty "Replace with" on Notepad++ restart
+-D-E-L-I-M-I-T-E-R-
+Fixed potential memory leak, found by Cppcheck.
+-D-E-L-I-M-I-T-E-R-
+functionParser.h: add virtual destructor into abstract class.
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed CWE-476 (NULL Pointer Dereference).
+-D-E-L-I-M-I-T-E-R-
+verifySignedfile.cpp: PVS-Studio: fixed identical sub-expressions.
+-D-E-L-I-M-I-T-E-R-
+Patch for issue #3389
+-D-E-L-I-M-I-T-E-R-
+FunctionList Update 3
+-D-E-L-I-M-I-T-E-R-
+Format all translation files to uniform the indent style. 
+-D-E-L-I-M-I-T-E-R-
+Update Swedish to v7.4
+-D-E-L-I-M-I-T-E-R-
+Fixed Toolbar initialization code
+-D-E-L-I-M-I-T-E-R-
+Ability to resize horizontally "Find in Files" dialog.
+-D-E-L-I-M-I-T-E-R-
+Fix folding in user-defined languages for non-windows line endings
+-D-E-L-I-M-I-T-E-R-
+Installer shows installation size as 0 for minimalist
+-D-E-L-I-M-I-T-E-R-
+Feature #685 progress bar in search dialog
+-D-E-L-I-M-I-T-E-R-
+Fix hung UI thread while holding left click on a tab and not moving.
+-D-E-L-I-M-I-T-E-R-
+449 Monospace font in search and replace combobox
+-D-E-L-I-M-I-T-E-R-
+#448 Add left margin to typing area.
+-D-E-L-I-M-I-T-E-R-
+Improper autospacing of closing brace } #362
+-D-E-L-I-M-I-T-E-R-
+#446 Shell icons used for file types
+-D-E-L-I-M-I-T-E-R-
+Issue Fixed: Tab behavior on find window
+-D-E-L-I-M-I-T-E-R-
+Update swedish.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: Tab closing error
+-D-E-L-I-M-I-T-E-R-
+#449 Find previous and next instead of combo direction Down/Up
+-D-E-L-I-M-I-T-E-R-
+#449 Monospace font in search and replace combobox
+-D-E-L-I-M-I-T-E-R-
+Fix C6328: Potential argument type mismatch
+-D-E-L-I-M-I-T-E-R-
+Fix rapid swapping between two tabs during tab drag and drop.
+-D-E-L-I-M-I-T-E-R-
+Update Italian Translation for document peeker, version 7.4.1
+-D-E-L-I-M-I-T-E-R-
+Add strongly typed interface for Scintilla
+-D-E-L-I-M-I-T-E-R-
+Add Plugins Administrator (in progress)
+-D-E-L-I-M-I-T-E-R-
+fix annoing reload from disk requests
+-D-E-L-I-M-I-T-E-R-
+Remove duplicate javascript language definition
+-D-E-L-I-M-I-T-E-R-
+Fix a typo in Spanish translation
+-D-E-L-I-M-I-T-E-R-
+Cambio en idioma español
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v7.4
+-D-E-L-I-M-I-T-E-R-
+Auto-completion: ConTeXt lexer-specific backslash support
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml
+-D-E-L-I-M-I-T-E-R-
+Added missing strings in english.xml
+-D-E-L-I-M-I-T-E-R-
+Make Command Argument Help window more readable.
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.4
+-D-E-L-I-M-I-T-E-R-
+Translation for new strings
+-D-E-L-I-M-I-T-E-R-
+Update LICENSE
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Make "Window->Windows...->Sort Tabs" more user friendly
+-D-E-L-I-M-I-T-E-R-
+Add ip(6)tables.* commands.
+-D-E-L-I-M-I-T-E-R-
+[Fixed issue]: Use extension for workspace file.
+-D-E-L-I-M-I-T-E-R-
+Update Corsican translation for Notepad++ 7.3.3
+-D-E-L-I-M-I-T-E-R-
+"Remove lines containing..." feature (issue: #3225)
+-D-E-L-I-M-I-T-E-R-
+[Fixed] UI text length (issue #3058)
+-D-E-L-I-M-I-T-E-R-
+FIxed Preference(MISC) UI Issue
+-D-E-L-I-M-I-T-E-R-
+RTL printing support for header & footer
+-D-E-L-I-M-I-T-E-R-
+Improve whitespace visibility
+-D-E-L-I-M-I-T-E-R-
+Auto complete dialog not showing on AdditionalWordCharacter
+-D-E-L-I-M-I-T-E-R-
+AutoComplete word list sorting and populating when IgnoreCase enabled
+-D-E-L-I-M-I-T-E-R-
+Add Plugins Administrator (in progress)
+-D-E-L-I-M-I-T-E-R-
+modify autocompletion to make it support .tex-specific / recognition
+-D-E-L-I-M-I-T-E-R-
+Updates localizationCode for Corsican
+-D-E-L-I-M-I-T-E-R-
+Add Corsican as Installer Language
+-D-E-L-I-M-I-T-E-R-
+Don't open change.log everytime
+-D-E-L-I-M-I-T-E-R-
+testAdd Plugins Administrator (in progress)
+-D-E-L-I-M-I-T-E-R-
+New resource for auto-completion in batch (batch.xml)
+-D-E-L-I-M-I-T-E-R-
+shortcuts.xml: Reword `Trim Trailing and save`
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Fix buffer overrun for wordchar list
+-D-E-L-I-M-I-T-E-R-
+converted readme.txt to readme.md
+-D-E-L-I-M-I-T-E-R-
+converted readme.txt to readme.md
+-D-E-L-I-M-I-T-E-R-
+Merging unused javascript.js type2 keywords into instre2 keywords - solves #3117
+-D-E-L-I-M-I-T-E-R-
+More fixes for multi-line feature
+-D-E-L-I-M-I-T-E-R-
+Setting fold.quotes.python in ScintillaEditView::setPythonLexer
+-D-E-L-I-M-I-T-E-R-
+Add separator for context menu
+-D-E-L-I-M-I-T-E-R-
+Update spanish.xml // Actualizar spanish.xml
+-D-E-L-I-M-I-T-E-R-
+Activate buffer after reload
+-D-E-L-I-M-I-T-E-R-
+Remove duplicate code
+-D-E-L-I-M-I-T-E-R-
+Fixes for multi-line feature
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Adding WSP as a special character option for user defined languages.
+-D-E-L-I-M-I-T-E-R-
+Added missing js es2017 keywords
+-D-E-L-I-M-I-T-E-R-
+use scintilla namespace
+-D-E-L-I-M-I-T-E-R-
+[Fixed regression]: Use extension for session file.
+-D-E-L-I-M-I-T-E-R-
+Some fixes to the spanish translation
+-D-E-L-I-M-I-T-E-R-
+Misc and stuffs
+-D-E-L-I-M-I-T-E-R-
+README.md cleanup
+-D-E-L-I-M-I-T-E-R-
+Update estonian.xml
+-D-E-L-I-M-I-T-E-R-
+Fixes for multi-line feature
+-D-E-L-I-M-I-T-E-R-
+Update Portuguese translation as per issue #2998
+-D-E-L-I-M-I-T-E-R-
+Fix issue with clicking links in html/js/asp/php
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.3.3
+-D-E-L-I-M-I-T-E-R-
+Pressing "Save all" by mistake on many unsaved documents causes multiple Save As dialogs #2929
+-D-E-L-I-M-I-T-E-R-
+Assign default encoding for new files, to empty files (issue #2947)
+-D-E-L-I-M-I-T-E-R-
+Display MRU list properly on seconday display
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Display MRU list properly (ctrl+TAB or Right Click+Scroll)
+-D-E-L-I-M-I-T-E-R-
+Show OS name properly on Debug Info
+-D-E-L-I-M-I-T-E-R-
+Fixing the mouse wheel to task list scroll bug (#2828), task list sizing and visible items
+-D-E-L-I-M-I-T-E-R-
+fixing the mouse wheel to task list scroll bug (#2828)
+-D-E-L-I-M-I-T-E-R-
+Updated code for patching issue #2828
+-D-E-L-I-M-I-T-E-R-
+Fix for issue #2828 Crashes if you hold right mousebutton and scroll a couple of times
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.3.2
+-D-E-L-I-M-I-T-E-R-
+Clear app registry key while switching from 32bit to 64 bit and vice versa
+-D-E-L-I-M-I-T-E-R-
+Fix for PERL parser Regression of Function List Update 2.
+-D-E-L-I-M-I-T-E-R-
+Update belarusian.xml
+-D-E-L-I-M-I-T-E-R-
+Update Hindi translation
+-D-E-L-I-M-I-T-E-R-
+Handle both File and Folder Drop
+-D-E-L-I-M-I-T-E-R-
+Improve behavior when notifying the user about a buffer change
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Remove ANSI version of: Hungarian (ANSI), Slovak (ANSI)
+-D-E-L-I-M-I-T-E-R-
+Fix: flickering issue if Doc is modified outside N++
+-D-E-L-I-M-I-T-E-R-
+Estonian translation
+-D-E-L-I-M-I-T-E-R-
+Multiple search tabs
+-D-E-L-I-M-I-T-E-R-
+Make folding style visible
+-D-E-L-I-M-I-T-E-R-
+link to udl v2.1 documentation
+-D-E-L-I-M-I-T-E-R-
+Incorrectly translated "space" to Dutch "ruimte"
+-D-E-L-I-M-I-T-E-R-
+Update HTML attribute wordlist
+-D-E-L-I-M-I-T-E-R-
+Added some new keywords of Java to autocomplete
+-D-E-L-I-M-I-T-E-R-
+Enhance Load/Save Session Feature
+-D-E-L-I-M-I-T-E-R-
+iface docu correction of bufferID
+-D-E-L-I-M-I-T-E-R-
+Fixed UI clip issue on preference->Print->Print Line Number
+-D-E-L-I-M-I-T-E-R-
+Retain Delimiter selection on several lines setting [Fixed issue]
+-D-E-L-I-M-I-T-E-R-
+Open File didn't work when there were tabs in the line.
+-D-E-L-I-M-I-T-E-R-
+Add NPP icon for uninstaller as well
+-D-E-L-I-M-I-T-E-R-
+Updated slovenian.xml
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian language
+-D-E-L-I-M-I-T-E-R-
+Update Swedish.xml to version 7.3.1
+-D-E-L-I-M-I-T-E-R-
+Show OS bit version as well along with OS name
+-D-E-L-I-M-I-T-E-R-
+Prevents flicker in the Folder as Workspace tree (issue #2203)
+-D-E-L-I-M-I-T-E-R-
+added StringBuilder keyword
+-D-E-L-I-M-I-T-E-R-
+Fixed file attribute managing in FileManager::saveBuffer
+-D-E-L-I-M-I-T-E-R-
+The 'Open File' command now works with 'path\file' instead of only 'f…
+-D-E-L-I-M-I-T-E-R-
+Fixed issues: #1200, #1714, #2125 and #2854
+-D-E-L-I-M-I-T-E-R-
+Update Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Update Belarusian translation
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: #2620
+-D-E-L-I-M-I-T-E-R-
+Set _isNoSession to true always if not the first instance
+-D-E-L-I-M-I-T-E-R-
+Fixed crash issue: #2820
+-D-E-L-I-M-I-T-E-R-
+Fixed localization installation issue [regression]
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian translation
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian & Belarusian
+-D-E-L-I-M-I-T-E-R-
+Treat Arduino .ino extension as C++
+-D-E-L-I-M-I-T-E-R-
+Update breton.xml
+-D-E-L-I-M-I-T-E-R-
+Updated Hindi Translation
+-D-E-L-I-M-I-T-E-R-
+Add yee quote
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v7.3.1
+-D-E-L-I-M-I-T-E-R-
+Added PluginsAdmin Folder
+-D-E-L-I-M-I-T-E-R-
+Update danish.xml to 7.3.1
+-D-E-L-I-M-I-T-E-R-
+Add Plugins Administrator (in progress)
+-D-E-L-I-M-I-T-E-R-
+Go to correct position after word completion
+-D-E-L-I-M-I-T-E-R-
+shortcut mapper clear command
+-D-E-L-I-M-I-T-E-R-
+Fix AutoIt keyword order
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Do not remove plugins considered unstable on new install
+-D-E-L-I-M-I-T-E-R-
+Update bulgarian.xml to 7.3.1
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update italian to v7.3
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for 7.3.1
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.3.1
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed issue: show toolbar while launching from system tray
+-D-E-L-I-M-I-T-E-R-
+Add some missing AutoIt keywords
+-D-E-L-I-M-I-T-E-R-
+Bulgarian language update
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for 7.2.2
+-D-E-L-I-M-I-T-E-R-
+Update all turkish.xml according to version 7.0
+-D-E-L-I-M-I-T-E-R-
+Added Speechmarks to autocorrect, Fixes #2685
+-D-E-L-I-M-I-T-E-R-
+Updated Bulgarian translation
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian translation
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Add end of line filled option on Style configurator
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.2.2
+-D-E-L-I-M-I-T-E-R-
+Enable Scintilla Lexer SCLEX_BAAN (BaanC Language)
+-D-E-L-I-M-I-T-E-R-
+Fixed Obsidian theme bug (issue #364)
+-D-E-L-I-M-I-T-E-R-
+Added Go To Column
+-D-E-L-I-M-I-T-E-R-
+Addition of Multiple Finders
+-D-E-L-I-M-I-T-E-R-
+Multiple Finders
+-D-E-L-I-M-I-T-E-R-
+Multiple Finders
+-D-E-L-I-M-I-T-E-R-
+Finder options
+-D-E-L-I-M-I-T-E-R-
+Allow drag n drop at High Integrity Level
+-D-E-L-I-M-I-T-E-R-
+Finder options
+-D-E-L-I-M-I-T-E-R-
+Finder options
+-D-E-L-I-M-I-T-E-R-
+Extension of Finders
+-D-E-L-I-M-I-T-E-R-
+Extension of Multiple Finders
+-D-E-L-I-M-I-T-E-R-
+The extension of finders, the result of "Find in Files" and "Find All in Current Document".
+-D-E-L-I-M-I-T-E-R-
+Add to recent file history only if file is removed from all the views
+-D-E-L-I-M-I-T-E-R-
+Retain the caret position between document move
+-D-E-L-I-M-I-T-E-R-
+Remove Batang-Font from CSS tags
+-D-E-L-I-M-I-T-E-R-
+Language VHDL updated
+-D-E-L-I-M-I-T-E-R-
+Add Support Highlight for 3.5.0+ Syntax.
+-D-E-L-I-M-I-T-E-R-
+Master
+-D-E-L-I-M-I-T-E-R-
+Potential fix to issue #2125, block uncomment feature not working.
+-D-E-L-I-M-I-T-E-R-
+Launch N++ with same privileges as explorer
+-D-E-L-I-M-I-T-E-R-
+confirmation prompt on close files option
+-D-E-L-I-M-I-T-E-R-
+Close multiple files- confirmation dialog
+-D-E-L-I-M-I-T-E-R-
+Copy encoding fixes from loadFile() to reloadBuffer()
+-D-E-L-I-M-I-T-E-R-
+Improve File Association
+-D-E-L-I-M-I-T-E-R-
+Improve Folder Browse And Save Dialog
+-D-E-L-I-M-I-T-E-R-
+Improve Folder Browse And Save Dialog
+-D-E-L-I-M-I-T-E-R-
+Improve File Association, Folder Browse & Save Dialog
+-D-E-L-I-M-I-T-E-R-
+No notification if ShellExecute fails
+-D-E-L-I-M-I-T-E-R-
+Fixes in Function List for PHP and JavaScript
+-D-E-L-I-M-I-T-E-R-
+"Styler Dialog" to "Styler"
+-D-E-L-I-M-I-T-E-R-
+"Inverse Bookmark" to "Inverse Bookmarks"
+-D-E-L-I-M-I-T-E-R-
+Remove "set your" and "here"
+-D-E-L-I-M-I-T-E-R-
+MAC to Mac and UNIX to Unix
+-D-E-L-I-M-I-T-E-R-
+Remove space before or after ":"
+-D-E-L-I-M-I-T-E-R-
+FunctionList Update 2
+-D-E-L-I-M-I-T-E-R-
+Fixed regression for Auto Update
+-D-E-L-I-M-I-T-E-R-
+Remove duplicate keywords from langs.model.xml
+-D-E-L-I-M-I-T-E-R-
+Update bulgarian.xml
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Update for Python Lexer : add detect "end of line where string is not…
+-D-E-L-I-M-I-T-E-R-
+Simplify determination of URL at click location
+-D-E-L-I-M-I-T-E-R-
+Updated uninstaller information
+-D-E-L-I-M-I-T-E-R-
+Added elif to the list of Inno Setup (.iss) preprocessor directive ke…
+-D-E-L-I-M-I-T-E-R-
+Unicode installer
+-D-E-L-I-M-I-T-E-R-
+Fix double click after double clicking hotspot
+-D-E-L-I-M-I-T-E-R-
+Update swedish.xml
+-D-E-L-I-M-I-T-E-R-
+Connect Scintilla Lexers to npp : SCLEX_ASN1 (Abstract Syntax Notatio…
+-D-E-L-I-M-I-T-E-R-
+Fixed uinstaller issues
+-D-E-L-I-M-I-T-E-R-
+Correctly identify when a macro is playing
+-D-E-L-I-M-I-T-E-R-
+Improve Javascript readability
+-D-E-L-I-M-I-T-E-R-
+Improved Run Macro dialog UI.
+-D-E-L-I-M-I-T-E-R-
+add missing string to chinese.xml translation
+-D-E-L-I-M-I-T-E-R-
+Update italian translation to v7.2
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to v7.2
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+DONOT include 32bit shell dll into 64bit installer
+-D-E-L-I-M-I-T-E-R-
+Expand environment variables in backup path
+-D-E-L-I-M-I-T-E-R-
+Fixed Function List to show certain function names
+-D-E-L-I-M-I-T-E-R-
+Removed false keyword 'from' from JavaScript model. Fixes #2510
+-D-E-L-I-M-I-T-E-R-
+More clarity in steps to be followed
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v7.1
+-D-E-L-I-M-I-T-E-R-
+Added "Exclude Filters" to 'Find in Files' dialog
+-D-E-L-I-M-I-T-E-R-
+Added new VB keywords
+-D-E-L-I-M-I-T-E-R-
+Improve makefile readability
+-D-E-L-I-M-I-T-E-R-
+Mingw GCC update
+-D-E-L-I-M-I-T-E-R-
+cmake config update
+-D-E-L-I-M-I-T-E-R-
+Add template code for missing Lexers (issue #1258)
+-D-E-L-I-M-I-T-E-R-
+Master
+-D-E-L-I-M-I-T-E-R-
+Smart highlight UI bug fix
+-D-E-L-I-M-I-T-E-R-
+Improve building with VS2015
+-D-E-L-I-M-I-T-E-R-
+Improved FunctionList's NSIS parser
+-D-E-L-I-M-I-T-E-R-
+Automatically remove the settings when uninstalling silently (Uninstall.exe /S)
+-D-E-L-I-M-I-T-E-R-
+Automatically keep the settings when uninstalling silently (Uninstall.exe /S)
+-D-E-L-I-M-I-T-E-R-
+Fix incorrect type conversion
+-D-E-L-I-M-I-T-E-R-
+validate nativeLang xml files with appVeyor
+-D-E-L-I-M-I-T-E-R-
+addition and correction for english.xml
+-D-E-L-I-M-I-T-E-R-
+Ensure backup directory exists
+-D-E-L-I-M-I-T-E-R-
+update japanese.xml to v7.1
+-D-E-L-I-M-I-T-E-R-
+CMake: use WIN32 variable #361
+-D-E-L-I-M-I-T-E-R-
+Add possibility to customize ColourPopup's color palette
+-D-E-L-I-M-I-T-E-R-
+Fixed Spacing
+-D-E-L-I-M-I-T-E-R-
+Remove post installation leftover files from temp
+-D-E-L-I-M-I-T-E-R-
+Delete Shell Extension dll more effectively
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to 7.0 - 2016.10.14
+-D-E-L-I-M-I-T-E-R-
+Auto complete ignore case bug and keywords with space is shown in multiple lines
+-D-E-L-I-M-I-T-E-R-
+Add contextual keywords to C# word list
+-D-E-L-I-M-I-T-E-R-
+Add C# type keywords to style configurator
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian translation
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml to v7.0
+-D-E-L-I-M-I-T-E-R-
+Include version info in Installer
+-D-E-L-I-M-I-T-E-R-
+Fixed uinstaller issues
+-D-E-L-I-M-I-T-E-R-
+- Added call to update full "File" menu when emptying recent files history (Fixed #2399)
+-D-E-L-I-M-I-T-E-R-
+Settings based Comment Start at line beginning and Blank line commenting
+-D-E-L-I-M-I-T-E-R-
+Add accelerator key to 'Find &All in Current Document'.
+-D-E-L-I-M-I-T-E-R-
+Set SQL lexer property after setting lexer
+-D-E-L-I-M-I-T-E-R-
+URL Control Enhancement (Minor bug fixes)
+-D-E-L-I-M-I-T-E-R-
+Quick find functionality
+-D-E-L-I-M-I-T-E-R-
+Bug Fixed Autocomplete ignore case
+-D-E-L-I-M-I-T-E-R-
+Updated list of void elements (a.k.a. self-closing tags)
+-D-E-L-I-M-I-T-E-R-
+Add option to skip numbers during word completion
+-D-E-L-I-M-I-T-E-R-
+Sync UTF-8 checkbox with UTF-8 radio button
+-D-E-L-I-M-I-T-E-R-
+Hindi Translation for V7.0
+-D-E-L-I-M-I-T-E-R-
+Added quick find functionality to search window
+-D-E-L-I-M-I-T-E-R-
+Completely clear bookmarks when they are toggled off
+-D-E-L-I-M-I-T-E-R-
+Reshow CallTip text on separator character
+-D-E-L-I-M-I-T-E-R-
+Update for the new language Corsu (corsican.xml)
+-D-E-L-I-M-I-T-E-R-
+Update for the new language Corsu (corsican.xml)
+-D-E-L-I-M-I-T-E-R-
+Include version info in Installer
+-D-E-L-I-M-I-T-E-R-
+Shorten some properties of the executable
+-D-E-L-I-M-I-T-E-R-
+Check plugin architecture before loading
+-D-E-L-I-M-I-T-E-R-
+Sort plugin menu by plugin name
+-D-E-L-I-M-I-T-E-R-
+Create Corsican translation for Notepad++ 6.9.2 and 7.0
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation for v7
+-D-E-L-I-M-I-T-E-R-
+Fixed UI issue for RTL layout
+-D-E-L-I-M-I-T-E-R-
+Scintilla/Boost build Update - Boostbuild.bat
+-D-E-L-I-M-I-T-E-R-
+FunctionList Update #1 - normalize functionList.xml
+-D-E-L-I-M-I-T-E-R-
+Improve Installer
+-D-E-L-I-M-I-T-E-R-
+Distinguish between x64 and x86 installer
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml to version 7.0
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to version 7.0, including last updates
+-D-E-L-I-M-I-T-E-R-
+Add MultiLanguage on ExtraOption custom page
+-D-E-L-I-M-I-T-E-R-
+Scintilla Boost build update
+-D-E-L-I-M-I-T-E-R-
+Align checkbox
+-D-E-L-I-M-I-T-E-R-
+Update CSS keywords
+-D-E-L-I-M-I-T-E-R-
+No notification if ShellExecute fails (Fixed#2179)
+-D-E-L-I-M-I-T-E-R-
+Remove post installation leftover files from temp
+-D-E-L-I-M-I-T-E-R-
+Fixed UI issue for RTL layout
+-D-E-L-I-M-I-T-E-R-
+Hindi translation has been updated.
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml  translation to 7
+-D-E-L-I-M-I-T-E-R-
+Text is clipped on preferences Window
+-D-E-L-I-M-I-T-E-R-
+update english and french translations
+-D-E-L-I-M-I-T-E-R-
+update english and french translations
+-D-E-L-I-M-I-T-E-R-
+Update kabyle.xml
+-D-E-L-I-M-I-T-E-R-
+Corrected typo in nsis script
+-D-E-L-I-M-I-T-E-R-
+Skip auto-complete of tags within HTML script
+-D-E-L-I-M-I-T-E-R-
+Added Description for Localization in installer
+-D-E-L-I-M-I-T-E-R-
+Corrected Typo in Urdu Localization
+-D-E-L-I-M-I-T-E-R-
+CallTip text uses start/stop/separator settings
+-D-E-L-I-M-I-T-E-R-
+Update batch keywords
+-D-E-L-I-M-I-T-E-R-
+Fix poor performance of hex XML entities
+-D-E-L-I-M-I-T-E-R-
+Update italian language file to version 7.0RC
+-D-E-L-I-M-I-T-E-R-
+Added more functionalities to "Folder as workspace"
+-D-E-L-I-M-I-T-E-R-
+Added more functionalities to "Folder as workspace"
+-D-E-L-I-M-I-T-E-R-
+Folder as workspace
+-D-E-L-I-M-I-T-E-R-
+Fixed issue #2249 - Wrong behaviour of Folder as Workspace toolbar icon
+-D-E-L-I-M-I-T-E-R-
+Introduced SmartHighlight Mode
+-D-E-L-I-M-I-T-E-R-
+Add "void" to PHP keywords
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v7
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian translation
+-D-E-L-I-M-I-T-E-R-
+New feature: Rearranging items in vertical file switcher by drag-n-drop operation
+-D-E-L-I-M-I-T-E-R-
+FunctionList Update1
+-D-E-L-I-M-I-T-E-R-
+Update Chinese (simplified) translation
+-D-E-L-I-M-I-T-E-R-
+Update Chinese translation
+-D-E-L-I-M-I-T-E-R-
+Fix access violation in styler dialog
+-D-E-L-I-M-I-T-E-R-
+Update hindi.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed repository URLs
+-D-E-L-I-M-I-T-E-R-
+Update polish translation.
+-D-E-L-I-M-I-T-E-R-
+Remove some spaces
+-D-E-L-I-M-I-T-E-R-
+Update german.xml to version 7.0
+-D-E-L-I-M-I-T-E-R-
+Updated Hindi Translations
+-D-E-L-I-M-I-T-E-R-
+Fixed issue #2179: No notification for not installed software
+-D-E-L-I-M-I-T-E-R-
+Issue #2179 fixed: No notification for not installed software
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Reduce the installer size by 30~35%
+-D-E-L-I-M-I-T-E-R-
+Make Task List dpi aware
+-D-E-L-I-M-I-T-E-R-
+Make margins dpi aware
+-D-E-L-I-M-I-T-E-R-
+Update Estonian Translation
+-D-E-L-I-M-I-T-E-R-
+Save wordchar list during hotspot click
+-D-E-L-I-M-I-T-E-R-
+Improve tab alignment in Shortcut Mapper
+-D-E-L-I-M-I-T-E-R-
+Updated UI appearance of About dialog and Debug (#2151)
+-D-E-L-I-M-I-T-E-R-
+Unify line ending terminology
+-D-E-L-I-M-I-T-E-R-
+Add thousands separator for FindReplace dialog
+-D-E-L-I-M-I-T-E-R-
+Add Doxygen keywords for C++ lexer
+-D-E-L-I-M-I-T-E-R-
+Update Notepad_plus.rc
+-D-E-L-I-M-I-T-E-R-
+Update Brazilian Portuguese
+-D-E-L-I-M-I-T-E-R-
+Simplify word detection for SmartHighlighter
+-D-E-L-I-M-I-T-E-R-
+Added new (>r2008) MATLAB keywords, as returned by MATLAB iskeyword()
+-D-E-L-I-M-I-T-E-R-
+Add thousands separator for Summary and Statusbar
+-D-E-L-I-M-I-T-E-R-
+Add SCI_LINEENDEXTEND to Parameters.cpp
+-D-E-L-I-M-I-T-E-R-
+Skip auto-complete of XML processing instructions
+-D-E-L-I-M-I-T-E-R-
+Drag/Drop folders + files now opens folder explorer and files
+-D-E-L-I-M-I-T-E-R-
+Appveyor artifacts debug and release
+-D-E-L-I-M-I-T-E-R-
+Fix PowerShell lexer
+-D-E-L-I-M-I-T-E-R-
+Added tab bar scrolling capabilities
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v6.9.2
+-D-E-L-I-M-I-T-E-R-
+(Easy to integrate!) Added new message that allows plugins to disable the auto-completion on each input
+-D-E-L-I-M-I-T-E-R-
+- corrected x64 debug build by adding $(BUILDTARGETPATH) to nppSpecif…
+-D-E-L-I-M-I-T-E-R-
+a bug about monitoring(tail -f) 
+-D-E-L-I-M-I-T-E-R-
+Update polish translation to 6.9.2
+-D-E-L-I-M-I-T-E-R-
+Changelog typo.
+-D-E-L-I-M-I-T-E-R-
+Translation fixes for polish.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed crash issue
+-D-E-L-I-M-I-T-E-R-
+Added new Option: Enable scrolling beyond last line
+-D-E-L-I-M-I-T-E-R-
+Move Tab Forward/Backward
+-D-E-L-I-M-I-T-E-R-
+Added more Change Case variants
+-D-E-L-I-M-I-T-E-R-
+Improved Single Line Comment
+-D-E-L-I-M-I-T-E-R-
+Added new Variable: NPP_ROOT_DIRECTORY
+-D-E-L-I-M-I-T-E-R-
+Added conflict detection to Shortcut Mapper
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Recognize new file type when created from the command line
+-D-E-L-I-M-I-T-E-R-
+Add ellipsis to "Open Folder as Workspace"
+-D-E-L-I-M-I-T-E-R-
+Skip attempt to auto-complete when closing XML comment
+-D-E-L-I-M-I-T-E-R-
+Change search direction when pressing 'shift' while searching
+-D-E-L-I-M-I-T-E-R-
+fix undefined fgColors for python
+-D-E-L-I-M-I-T-E-R-
+Add xml entity style
+-D-E-L-I-M-I-T-E-R-
+Skip auto-complete of <?xml> tag
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml to notepad++ v6.9.2
+-D-E-L-I-M-I-T-E-R-
+Fix untranslated options in File menu
+-D-E-L-I-M-I-T-E-R-
+format code files
+-D-E-L-I-M-I-T-E-R-
+Update Brazilian Portuguese translation
+-D-E-L-I-M-I-T-E-R-
+Report the correct crashed plugin
+-D-E-L-I-M-I-T-E-R-
+Detect Vagrantfile as Ruby
+-D-E-L-I-M-I-T-E-R-
+minimal fix for the crash seen with issue #1887
+-D-E-L-I-M-I-T-E-R-
+Fix Cppcheck warnings.
+-D-E-L-I-M-I-T-E-R-
+Appveyor artifacts debug and release
+-D-E-L-I-M-I-T-E-R-
+Appveyor release
+-D-E-L-I-M-I-T-E-R-
+Fix Appveyor artifacts
+-D-E-L-I-M-I-T-E-R-
+Added some error checking during file saving.
+-D-E-L-I-M-I-T-E-R-
+Added a -quitOnEmpty command line flag that causes Notepad++ to quit when the last tab is closed.
+-D-E-L-I-M-I-T-E-R-
+Update old themes to use the correct style IDs for Pascal
+-D-E-L-I-M-I-T-E-R-
+Better and more accurate menu entries for Caml & LISP
+-D-E-L-I-M-I-T-E-R-
+Merge pull request #1 from notepad-plus-plus/master
+-D-E-L-I-M-I-T-E-R-
+Fix file saving crash
+-D-E-L-I-M-I-T-E-R-
+Fix localization for " Folder as Workspace"
+-D-E-L-I-M-I-T-E-R-
+Translation fixes for polish.xml
+-D-E-L-I-M-I-T-E-R-
+Update Italian translation to version 6.9.2
+-D-E-L-I-M-I-T-E-R-
+Update russian translation
+-D-E-L-I-M-I-T-E-R-
+Appveyor release
+-D-E-L-I-M-I-T-E-R-
+Fix Appveyor artifacts
+-D-E-L-I-M-I-T-E-R-
+Check if Notepad++ is running and ask the user to close it before continue
+-D-E-L-I-M-I-T-E-R-
+Correct "JavaScript" capitalization in themes
+-D-E-L-I-M-I-T-E-R-
+Stop mutli-line tabs from changing rows when switching tabs.
+-D-E-L-I-M-I-T-E-R-
+cppcheck: fix some reports
+-D-E-L-I-M-I-T-E-R-
+BugSquasher Fixes
+-D-E-L-I-M-I-T-E-R-
+Update link display text to have extension vcxproj instead of vcproj.
+-D-E-L-I-M-I-T-E-R-
+Added an option to not delete backup when discarding changes
+-D-E-L-I-M-I-T-E-R-
+Added copy-without-highlighting functionality to links
+-D-E-L-I-M-I-T-E-R-
+Add the instructions movabs and cvtsi2sdq; and the register sets r8-15 and xmm8-15.
+-D-E-L-I-M-I-T-E-R-
+Fixed preference backup path not creating
+-D-E-L-I-M-I-T-E-R-
+Tab size 0 can no longer be used.
+-D-E-L-I-M-I-T-E-R-
+Clarified common step when building SciLexer.dll
+-D-E-L-I-M-I-T-E-R-
+Fixed spelling errors addressed in issue #1277
+-D-E-L-I-M-I-T-E-R-
+Fixed fontname and font size in Obsidian.xml
+-D-E-L-I-M-I-T-E-R-
+Fixed french spelling mistake
+-D-E-L-I-M-I-T-E-R-
+Enable Less and SCSS highlighting
+-D-E-L-I-M-I-T-E-R-
+Add fortran77 to all themes by exactly duplicating each theme's existing fortran style
+-D-E-L-I-M-I-T-E-R-
+Added new command line option: -p : Scroll to indicated position
+-D-E-L-I-M-I-T-E-R-
+Added autohotkey support.
+-D-E-L-I-M-I-T-E-R-
+Patch for #1595 and #1762 (incorrect URL)
+-D-E-L-I-M-I-T-E-R-
+Add .profile, .bash_profile, and .bashrc extensions.
+-D-E-L-I-M-I-T-E-R-
+Update functionList.xml to support Ruby
+-D-E-L-I-M-I-T-E-R-
+Add new PHP7 functions to syntax highlight
+-D-E-L-I-M-I-T-E-R-
+appveyor artifacts
+-D-E-L-I-M-I-T-E-R-
+Reset the smart highlighter after a fold change
+-D-E-L-I-M-I-T-E-R-
+Added missing strings and made some corrections
+-D-E-L-I-M-I-T-E-R-
+Safely convert EOLs
+-D-E-L-I-M-I-T-E-R-
+x64 build broken, added missing additional dirs from filebrowser feature also for x64 builds
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Wrap path arg in quotes to properly open explorer for all files
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v6.9.1
+-D-E-L-I-M-I-T-E-R-
+throw object instead of pointer
+-D-E-L-I-M-I-T-E-R-
+Create ISSUE_TEMPLATE.md
+-D-E-L-I-M-I-T-E-R-
+patch for #1095 Check sign in Language menu not shown
+-D-E-L-I-M-I-T-E-R-
+Update to the SQL language detection
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml to current release (6.9.x)
+-D-E-L-I-M-I-T-E-R-
+Fix many GCC compile warnings and some errors
+-D-E-L-I-M-I-T-E-R-
+keyword var for Csharp
+-D-E-L-I-M-I-T-E-R-
+Make Scintilla build properly with GCC/MinGW
+-D-E-L-I-M-I-T-E-R-
+#1542 open folder as workspace
+-D-E-L-I-M-I-T-E-R-
+#944: Option to hide the diskette icon in the document switcher dialog.
+-D-E-L-I-M-I-T-E-R-
+#326: Set file read-only
+-D-E-L-I-M-I-T-E-R-
+Add autocompletion file for AutoIt
+-D-E-L-I-M-I-T-E-R-
+Update chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Fix cfa57b6
+-D-E-L-I-M-I-T-E-R-
+Minor performance enhancements
+-D-E-L-I-M-I-T-E-R-
+Ctrl+Shift+W for Close All
+-D-E-L-I-M-I-T-E-R-
+Tab highlighting on file change
+-D-E-L-I-M-I-T-E-R-
+Updated VS2015 project file
+-D-E-L-I-M-I-T-E-R-
+Updated VS2015 project files to reflect recent changes
+-D-E-L-I-M-I-T-E-R-
+Update japanese.xml
+-D-E-L-I-M-I-T-E-R-
+Fix Find In Files progress bar position bug
+-D-E-L-I-M-I-T-E-R-
+Add Ctrl+Shift+Z for Redo
+-D-E-L-I-M-I-T-E-R-
+Synchronize VS2015 project
+-D-E-L-I-M-I-T-E-R-
+Continuous integration with Appveyor
+-D-E-L-I-M-I-T-E-R-
+Unify VS project file
+-D-E-L-I-M-I-T-E-R-
+Fix Selected line count was never 1
+-D-E-L-I-M-I-T-E-R-
+Fix spelling and grammar in the list of jokes.
+-D-E-L-I-M-I-T-E-R-
+Ignore DOCTYPE declarations for HTML autocompletion.
+-D-E-L-I-M-I-T-E-R-
+Find in files: reduce update rate of find in files progress bar
+-D-E-L-I-M-I-T-E-R-
+buffer: fix dereferencing past end
+-D-E-L-I-M-I-T-E-R-
+Fixed Loss of syntax highlighting during "save as" (See issue #1298)
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v6.9
+-D-E-L-I-M-I-T-E-R-
+updated polish.xml to 6.8.2
+-D-E-L-I-M-I-T-E-R-
+updated polish.xml to 6.8.2
+-D-E-L-I-M-I-T-E-R-
+Update Ukrainian translation: ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Create appveyor.yml
+-D-E-L-I-M-I-T-E-R-
+Add travis ci testing support
+-D-E-L-I-M-I-T-E-R-
+Add 3 missing translatable items to master XML for 6.8.8
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for Notepad++ 6.8.8
+-D-E-L-I-M-I-T-E-R-
+fixed Processus/FileBrowser/ReadDirectoryChanges compilation errorrs in VS2015
+-D-E-L-I-M-I-T-E-R-
+Fix autocompletion for PHP function class_alias()
+-D-E-L-I-M-I-T-E-R-
+Add CoApp autopkg as json
+-D-E-L-I-M-I-T-E-R-
+Remove some unnessary "enable "
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Adds string styles to other themes for D
+-D-E-L-I-M-I-T-E-R-
+Visual Prolog lexer support
+-D-E-L-I-M-I-T-E-R-
+Add unique 0 to verilog keyword list
+-D-E-L-I-M-I-T-E-R-
+Updated Russian translation, russian.xml
+-D-E-L-I-M-I-T-E-R-
+Updated German translation for new "no edge" option
+-D-E-L-I-M-I-T-E-R-
+Not localized caption of FindReplaceDlg
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+French localisation update
+-D-E-L-I-M-I-T-E-R-
+French localisation update
+-D-E-L-I-M-I-T-E-R-
+Add mIRC (mSL) Scripting Language support
+-D-E-L-I-M-I-T-E-R-
+Add mIRC (mSL) Scripting Language support
+-D-E-L-I-M-I-T-E-R-
+Add mIRC (mSL) Scripting Language support
+-D-E-L-I-M-I-T-E-R-
+Notepad++ support both SCLEX_FORTRAN and SCLEX_F77
+-D-E-L-I-M-I-T-E-R-
+Updated Scintilla to 3.6.2
+-D-E-L-I-M-I-T-E-R-
+Minor performance tweaks
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Improvements for JSON highlighting
+-D-E-L-I-M-I-T-E-R-
+Correct mispelling
+-D-E-L-I-M-I-T-E-R-
+fix some misunderstanding translation in chineseSimplified.xml
+-D-E-L-I-M-I-T-E-R-
+Add "null" literal to list of JavaScript keywords
+-D-E-L-I-M-I-T-E-R-
+Add JSON language to Zenburn theme
+-D-E-L-I-M-I-T-E-R-
+Merge pull request #1 from notepad-plus-plus/master
+-D-E-L-I-M-I-T-E-R-
+YAML keywords and indentation
+-D-E-L-I-M-I-T-E-R-
+[UPDATE] Bulgarian language
+-D-E-L-I-M-I-T-E-R-
+Fixed mistaken Python keyword in langs.model
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml to version 6.8.8
+-D-E-L-I-M-I-T-E-R-
+Add new support to VS 2015 and boost 1.59
+-D-E-L-I-M-I-T-E-R-
+Introduced SmartHiliteMode
+-D-E-L-I-M-I-T-E-R-
+Update italian localization to version 6.8.8
+-D-E-L-I-M-I-T-E-R-
+better error messages when plugins fail to load
+-D-E-L-I-M-I-T-E-R-
+Fixed an issue #1273: Visual Studio debug build crash with Run-Time Check Failure #1
+-D-E-L-I-M-I-T-E-R-
+Show dialog before printing via toolbar icon
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml
+-D-E-L-I-M-I-T-E-R-
+Add identifier style to R
+-D-E-L-I-M-I-T-E-R-
+FreePascal/Lazarus pascal files extensions (www.freepascal.org) (www.…
+-D-E-L-I-M-I-T-E-R-
+Integrate lexers for several hex file formats
+-D-E-L-I-M-I-T-E-R-
+Fixed an issue #1248: long hyperlinks truncated.
+-D-E-L-I-M-I-T-E-R-
+[UPDATE] Bulgarian language
+-D-E-L-I-M-I-T-E-R-
+Remove "triple" from the list of Python keywords
+-D-E-L-I-M-I-T-E-R-
+#1239 Make external lexer tab settings persistent.
+-D-E-L-I-M-I-T-E-R-
+Make GCC/MinGW build work again and support cross-building under Linux
+-D-E-L-I-M-I-T-E-R-
+Beautify 2 language files
+-D-E-L-I-M-I-T-E-R-
+Updated swedish translation
+-D-E-L-I-M-I-T-E-R-
+Add .ctl support
+-D-E-L-I-M-I-T-E-R-
+Add JS based languages
+-D-E-L-I-M-I-T-E-R-
+notepad-plus-plus#817 Sample implementation.
+-D-E-L-I-M-I-T-E-R-
+Add styles for additional strings in D
+-D-E-L-I-M-I-T-E-R-
+Followup with splitted remove scintilla deprecated calls/defines #1115 part3
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation to v6.8.7
+-D-E-L-I-M-I-T-E-R-
+Fixes #293 and #1198
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update for v6.8.7
+-D-E-L-I-M-I-T-E-R-
+Fixed "HTML Enclose Tag" #868 
+-D-E-L-I-M-I-T-E-R-
+Fix for issue #1172
+-D-E-L-I-M-I-T-E-R-
+Add styles for Powershell
+-D-E-L-I-M-I-T-E-R-
+Add styles for Lua label and identifier
+-D-E-L-I-M-I-T-E-R-
+Add style for Python decorator
+-D-E-L-I-M-I-T-E-R-
+Add styles for preprocessor comments
+-D-E-L-I-M-I-T-E-R-
+remove scintilla deprecated calls/defines #1115 part3
+-D-E-L-I-M-I-T-E-R-
+ remove scintilla deprecated calls/defines #1115 part2
+-D-E-L-I-M-I-T-E-R-
+remove scintilla deprecated calls/defines #1115 part1
+-D-E-L-I-M-I-T-E-R-
+Fixed naming conventions on CONTRIBUTING.md
+-D-E-L-I-M-I-T-E-R-
+Update GetWindowsVersion installer script
+-D-E-L-I-M-I-T-E-R-
+Ukrainian translation update
+-D-E-L-I-M-I-T-E-R-
+Avoid GetLongPathName() call for files with long name(#1148 issue)
+-D-E-L-I-M-I-T-E-R-
+Avoid GetLongPathName() call for long named files(#1148 issue)
+-D-E-L-I-M-I-T-E-R-
+Changed Tab bar to draw windows file type icons.
+-D-E-L-I-M-I-T-E-R-
+Fixes issue #1144, simplifies code
+-D-E-L-I-M-I-T-E-R-
+Revert "Make file save dialog modern style" fix #1129
+-D-E-L-I-M-I-T-E-R-
+Work on GetWindowsVersion installer script
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Update brazilian_portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+remove scintilla deprecated calls/defines
+-D-E-L-I-M-I-T-E-R-
+Avoid out-of bounds read access issue introduced with
+-D-E-L-I-M-I-T-E-R-
+Properly align checkbox in preferences > auto-completion
+-D-E-L-I-M-I-T-E-R-
+Fix some bugs and inconsistencies in installer
+-D-E-L-I-M-I-T-E-R-
+Better Unicode input support on Windows systems.
+-D-E-L-I-M-I-T-E-R-
+better php comment expression in function list
+-D-E-L-I-M-I-T-E-R-
+french.xml typos + improve
+-D-E-L-I-M-I-T-E-R-
+Update nppSetup.nsi (remove DSpellCheck.dll disabling code)
+-D-E-L-I-M-I-T-E-R-
+php function commentExpr
+-D-E-L-I-M-I-T-E-R-
+Back-quoted string support for javascript
+-D-E-L-I-M-I-T-E-R-
+More Translate Mismatch
+-D-E-L-I-M-I-T-E-R-
+Translate Mismatch
+-D-E-L-I-M-I-T-E-R-
+Improve and simplify drawing of tabs in TabBarPlus
+-D-E-L-I-M-I-T-E-R-
+Move position to center when using "-n" option
+-D-E-L-I-M-I-T-E-R-
+Prevent HTML tags with no closing tags from being autocompleted.
+-D-E-L-I-M-I-T-E-R-
+Prevent autocompletion of tags that have no closing tag.
+-D-E-L-I-M-I-T-E-R-
+Treat lex sources as C files.
+-D-E-L-I-M-I-T-E-R-
+Add (u)int{8,16,32,64}_t, {size,time,clock,wchar}_t for C, and {clock,ptrdiff,time}_t for C++.
+-D-E-L-I-M-I-T-E-R-
+Use MSBuild commands for PostBuild events.
+-D-E-L-I-M-I-T-E-R-
+Fix possible wrong EOL mode for UTF-8-BOM file
+-D-E-L-I-M-I-T-E-R-
+Update DocMap when setting user or external lexer
+-D-E-L-I-M-I-T-E-R-
+Update to english.xml 6.8.2
+-D-E-L-I-M-I-T-E-R-
+Fix possible file corruption during macro playback
+-D-E-L-I-M-I-T-E-R-
+toolbar
+-D-E-L-I-M-I-T-E-R-
+Update catalan.xml
+-D-E-L-I-M-I-T-E-R-
+Improve the language detection at the beginning of a file
+-D-E-L-I-M-I-T-E-R-
+Cleanup for explorer style file save dialog
+-D-E-L-I-M-I-T-E-R-
+Corrected order for "(\r, \n, \t, \x…, \0)" for all languages
+-D-E-L-I-M-I-T-E-R-
+Use MSBuild commands for PostBuild events.
+-D-E-L-I-M-I-T-E-R-
+Synchronize VS2015 project
+-D-E-L-I-M-I-T-E-R-
+Update bengali.xml
+-D-E-L-I-M-I-T-E-R-
+64-bit fixes
+-D-E-L-I-M-I-T-E-R-
+Synchronize VS2015 project
+-D-E-L-I-M-I-T-E-R-
+Add UDL for Tab settings
+-D-E-L-I-M-I-T-E-R-
+Update CONTRIBUTING.md for bug reporting guidelines
+-D-E-L-I-M-I-T-E-R-
+Em dash instead of hyphen as title parts separator
+-D-E-L-I-M-I-T-E-R-
+TreatWarningAsError should be 'true' for 32-bit build
+-D-E-L-I-M-I-T-E-R-
+Update korean.xml
+-D-E-L-I-M-I-T-E-R-
+Skip auto-insertion detection for xml comment tag
+-D-E-L-I-M-I-T-E-R-
+Show Notepad++.exe bitness in about box
+-D-E-L-I-M-I-T-E-R-
+Fix #953 Find all files crash in 64-bit since 6.7.5
+-D-E-L-I-M-I-T-E-R-
+GUI: shortcut window graphical revamp
+-D-E-L-I-M-I-T-E-R-
+Remove files in vcxproj that do not exist to avoid rebuild all the time
+-D-E-L-I-M-I-T-E-R-
+Also detect #!/bin/bash as bash script file type
+-D-E-L-I-M-I-T-E-R-
+Do not limit building 32-bit scintilla, so x64 compiler will work
+-D-E-L-I-M-I-T-E-R-
+Update langs.model.xml
+-D-E-L-I-M-I-T-E-R-
+Fixes Save All state after closing tab
+-D-E-L-I-M-I-T-E-R-
+Removed space before ellipses in German translation
+-D-E-L-I-M-I-T-E-R-
+Add PAE LargeAdressAware for 32bit use up to 4GB RAM on Windows 64bit
+-D-E-L-I-M-I-T-E-R-
+Add PAE LargeAdressAware for 32bit use up to 4GB RAM on Windows 64bit
+-D-E-L-I-M-I-T-E-R-
+Notepad_plus::findMacedBracePos
+-D-E-L-I-M-I-T-E-R-
+Added missing macro commands (closes #374)
+-D-E-L-I-M-I-T-E-R-
+Update polish.xml
+-D-E-L-I-M-I-T-E-R-
+ #862 - Allow plugins to retrieve settings directory.
+-D-E-L-I-M-I-T-E-R-
+Update Notepad_plus.cpp to fix issue #749
+-D-E-L-I-M-I-T-E-R-
+Singular to plural, title case (dockable "Find Results" dialog)
+-D-E-L-I-M-I-T-E-R-
+Make the Obsidian theme color additions, deletions and position indicators in diff files.
+-D-E-L-I-M-I-T-E-R-
+*nix: update the list of commands
+-D-E-L-I-M-I-T-E-R-
+Support for background saving of file
+-D-E-L-I-M-I-T-E-R-
+Fix crash on 64bit build
+-D-E-L-I-M-I-T-E-R-
+fix macro save on shortcuts.xml
+-D-E-L-I-M-I-T-E-R-
+https://github.com/notepad-plus-plus/notepad-plus-plus/issues/817/ --…
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Got rid of comment
+-D-E-L-I-M-I-T-E-R-
+Notepad++ support both SCLEX_FORTRAN and SCLEX_F77
+-D-E-L-I-M-I-T-E-R-
+Update RUSSIAN 6.8.2
+-D-E-L-I-M-I-T-E-R-
+Possible fix for #725 - Cannot open files that contain ASCII NUL(0x00) correctly
+-D-E-L-I-M-I-T-E-R-
+Possible fix for #752 - Language not set when creating new file
+-D-E-L-I-M-I-T-E-R-
+Possible fix for #215 - changing timezone causes all files to appear changed
+-D-E-L-I-M-I-T-E-R-
+support for final and override c++ 11 specifier in functionlist
+-D-E-L-I-M-I-T-E-R-
+Fix for Reload marks file as unsaved #689 issue
+-D-E-L-I-M-I-T-E-R-
+Enhance EOL naming in menus and statusbar and preferences (fixes #755)
+-D-E-L-I-M-I-T-E-R-
+Patch encoding mapper#4
+-D-E-L-I-M-I-T-E-R-
+Some c++11 and c++ code style.
+-D-E-L-I-M-I-T-E-R-
+Make encodings array to be a const.
+-D-E-L-I-M-I-T-E-R-
+Calculating variable nbItem only once.
+-D-E-L-I-M-I-T-E-R-
+Remove unused variable
+-D-E-L-I-M-I-T-E-R-
+Update german.xml
+-D-E-L-I-M-I-T-E-R-
+Adjust toolbar height (fixes #771)
+-D-E-L-I-M-I-T-E-R-
+translation: Update Chinese (Simplified) translation
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+auto detect boost newer than 1.56 by buildboost.bat, vs2015
+-D-E-L-I-M-I-T-E-R-
+Add xproj as XML file
+-D-E-L-I-M-I-T-E-R-
+windows 10 detection in getWinVersion()
+-D-E-L-I-M-I-T-E-R-
+Nuget boost 1 59
+-D-E-L-I-M-I-T-E-R-
+Add 2 missing translatable items to original XML (for 6.8.2)
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for Notepad++ 6.8.2
+-D-E-L-I-M-I-T-E-R-
+Add a list of commonly available Linux commands.
+-D-E-L-I-M-I-T-E-R-
+Add movsxd and cdqe.
+-D-E-L-I-M-I-T-E-R-
+Add uint{8,16,32,64}_t and size_t data types.
+-D-E-L-I-M-I-T-E-R-
+Update albanian.xml
+-D-E-L-I-M-I-T-E-R-
+Update of Ukrainian lang
+-D-E-L-I-M-I-T-E-R-
+Function List panel fixes
+-D-E-L-I-M-I-T-E-R-
+[UPDATE] Bulgarian language
+-D-E-L-I-M-I-T-E-R-
+Add options to control Go To behavior
+-D-E-L-I-M-I-T-E-R-
+translation: Update Chinese (Simplified) translation
+-D-E-L-I-M-I-T-E-R-
+Improvements to "Open in/Move to new instance"
+-D-E-L-I-M-I-T-E-R-
+Fix: text area had a border when "Border Width" option was set to 0
+-D-E-L-I-M-I-T-E-R-
+langs.model.xml: Additions to PHP highlight
+-D-E-L-I-M-I-T-E-R-
+Make "Border Width" value 0 truly 0
+-D-E-L-I-M-I-T-E-R-
+Toolbar: properly refresh when switching over small/big icons
+-D-E-L-I-M-I-T-E-R-
+About Box improvements
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Update portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Fix word count regex to include words separated by newline
+-D-E-L-I-M-I-T-E-R-
+Remove unused font file; update year
+-D-E-L-I-M-I-T-E-R-
+Improve space usage in File Association dialog
+-D-E-L-I-M-I-T-E-R-
+Update german.xml for 6.8
+-D-E-L-I-M-I-T-E-R-
+Disable the unused gripper of toolbar
+-D-E-L-I-M-I-T-E-R-
+VS2015 project update
+-D-E-L-I-M-I-T-E-R-
+Fix for function list issue #457
+-D-E-L-I-M-I-T-E-R-
+sync with upstream
+-D-E-L-I-M-I-T-E-R-
+Fix "disply" typos
+-D-E-L-I-M-I-T-E-R-
+Prevent override of dirty state on saving snapshot file
+-D-E-L-I-M-I-T-E-R-
+Update portuguese.xml
+-D-E-L-I-M-I-T-E-R-
+Update macro menu items state (fixes #172)
+-D-E-L-I-M-I-T-E-R-
+Issue 457
+-D-E-L-I-M-I-T-E-R-
+ChangeIcon.exe execution write
+-D-E-L-I-M-I-T-E-R-
+Allows auto-inserted text to be an undoable action
+-D-E-L-I-M-I-T-E-R-
+Fix round-off issue with splitter percentage (fixes #405)
+-D-E-L-I-M-I-T-E-R-
+Fix regression introduced in v6.6 ("new 0.txt")
+-D-E-L-I-M-I-T-E-R-
+Update bulgarian.xml
+-D-E-L-I-M-I-T-E-R-
+Update of English language file
+-D-E-L-I-M-I-T-E-R-
+Update of German language file
+-D-E-L-I-M-I-T-E-R-
+Add new lines russian.xml (6.8) / Artur Harisov
+-D-E-L-I-M-I-T-E-R-
+Update russian.xml / Artur Harisov 6.8
+-D-E-L-I-M-I-T-E-R-
+Update text control items to fit translated texts
+-D-E-L-I-M-I-T-E-R-
+Update dutch language again
+-D-E-L-I-M-I-T-E-R-
+Enable Notepad++ support both SCLEX_FORTRAN and SCLEX_F77
+-D-E-L-I-M-I-T-E-R-
+Resolve issue for create another tab with name new0 after closing first one
+-D-E-L-I-M-I-T-E-R-
+Clean a bit of Don Ho's foulness
+-D-E-L-I-M-I-T-E-R-
+Add 11 missing translatable items to original XML
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for Notepad++ 6.8
+-D-E-L-I-M-I-T-E-R-
+Enable Notepad++ support both SCLEX_FORTRAN and SCLEX_F77
+-D-E-L-I-M-I-T-E-R-
+Update dutch language
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml translation for version 6.8
+-D-E-L-I-M-I-T-E-R-
+Remove temporary file used for updating Scintilla
+-D-E-L-I-M-I-T-E-R-
+Request for pull of bug fix #520 and subsequent pull of feature #521
+-D-E-L-I-M-I-T-E-R-
+Improve readability of CONTRIBUTING.md
+-D-E-L-I-M-I-T-E-R-
+Update italian language
+-D-E-L-I-M-I-T-E-R-
+Update english.xml
+-D-E-L-I-M-I-T-E-R-
+Italian translation
+-D-E-L-I-M-I-T-E-R-
+Normalize EOL errors detected by .gitattributes
+-D-E-L-I-M-I-T-E-R-
+Increase precision for view split ratio(fixes #405) 
+-D-E-L-I-M-I-T-E-R-
+Update italian language 15.07.2015
+-D-E-L-I-M-I-T-E-R-
+Fix Context menu not shown regression bug [fixes issue #383]
+-D-E-L-I-M-I-T-E-R-
+langs.model.xml: Additions to PHP highlight
+-D-E-L-I-M-I-T-E-R-
+Add indentation detection. Closes #479
+-D-E-L-I-M-I-T-E-R-
+Update shortcuts.xml
+-D-E-L-I-M-I-T-E-R-
+Update settings on cloud in czech.xml
+-D-E-L-I-M-I-T-E-R-
+User defined commands: using DuckDuckGo as default search engine
+-D-E-L-I-M-I-T-E-R-
+Update Italian language (cloud settings)
+-D-E-L-I-M-I-T-E-R-
+Repair and update of Ukrainian locale after fix encoding
+-D-E-L-I-M-I-T-E-R-
+empty files line endings
+-D-E-L-I-M-I-T-E-R-
+German localization update for Notepad++ 6.7.9.2
+-D-E-L-I-M-I-T-E-R-
+Added missing macro commands (closes #374)
+-D-E-L-I-M-I-T-E-R-
+sp. convinient->convenient
+-D-E-L-I-M-I-T-E-R-
+Remove sqlite3.c and sqlite3.h from VS2015 project (Issue #444)
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Update italian.xml (v. 6.7.9.2)
+-D-E-L-I-M-I-T-E-R-
+Adding yaml file extension in languages
+-D-E-L-I-M-I-T-E-R-
+Update czech.xml
+-D-E-L-I-M-I-T-E-R-
+Additions to langs.model.xml
+-D-E-L-I-M-I-T-E-R-
+Hungarian translation update for Notepad++ 6.7.9.2
+-D-E-L-I-M-I-T-E-R-
+Added "Close All Saved feature" (Issue #335)
+-D-E-L-I-M-I-T-E-R-
+Activate last dialog when N++ is reactivated
+-D-E-L-I-M-I-T-E-R-
+Change autocomplete dialog to accommodate Italian
+-D-E-L-I-M-I-T-E-R-
+Change autocomplete dialog to better accommodate Italian translation
+-D-E-L-I-M-I-T-E-R-
+Make GCC/MinGW build work again and support cross-building under Linux
+-D-E-L-I-M-I-T-E-R-
+Adjust x64 build paths
+-D-E-L-I-M-I-T-E-R-
+Synchronize VS2015 project.
+-D-E-L-I-M-I-T-E-R-
+Remove unused variable in EncodingMapper.h
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Improve community badge in Readme
+-D-E-L-I-M-I-T-E-R-
+Rewrote README.MD for clarity & comprehension
+-D-E-L-I-M-I-T-E-R-
+Rewrote README.MD for clarity & comprehension (no merge conflicts!)
+-D-E-L-I-M-I-T-E-R-
+Squashed commit of the following:
+-D-E-L-I-M-I-T-E-R-
+Restore commit history prior to 2009-04-24
+-D-E-L-I-M-I-T-E-R-
+Squashed commit of the following:
+-D-E-L-I-M-I-T-E-R-
+Additions to HTML lang and auto-complete
+-D-E-L-I-M-I-T-E-R-
+[UPGRADE] Upgrade Scintilla from v3.5.6 to v3.5.7.
+-D-E-L-I-M-I-T-E-R-
+Additions to HTML lang and auto-complete
+-D-E-L-I-M-I-T-E-R-
+Improve Swedish translation
+-D-E-L-I-M-I-T-E-R-
+Fix spelling of "Icelandic"
+-D-E-L-I-M-I-T-E-R-
+Update english.xml
+-D-E-L-I-M-I-T-E-R-
+contextMenu: Add Sort Lines Lexicographically Ascending/Descending by default
+-D-E-L-I-M-I-T-E-R-
+Only set font quality if ClearType is enabled
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Add some missing extensions to File Associations
+-D-E-L-I-M-I-T-E-R-
+Add "php" string to PHP auto-complete
+-D-E-L-I-M-I-T-E-R-
+Add COBOL to function list
+-D-E-L-I-M-I-T-E-R-
+Japanese localization for Notepad++ 6.7.7　(same version as english.xml)
+-D-E-L-I-M-I-T-E-R-
+Add vsixmanifest as XML
+-D-E-L-I-M-I-T-E-R-
+Make behavior of SHIFT+END and SHIFT+HOME consistent when word wrapping is enabled
+-D-E-L-I-M-I-T-E-R-
+Add CSS to languages that are auto-indented
+-D-E-L-I-M-I-T-E-R-
+Extra space in default document name at startup
+-D-E-L-I-M-I-T-E-R-
+Fix "new  0.txt" using two spaces
+-D-E-L-I-M-I-T-E-R-
+Secure build
+-D-E-L-I-M-I-T-E-R-
+Fix issue #220 "Choice Chinese fonts name take no effect"
+-D-E-L-I-M-I-T-E-R-
+Rewrote README.MD for clarity & comprehension
+-D-E-L-I-M-I-T-E-R-
+Update ukrainian.xml
+-D-E-L-I-M-I-T-E-R-
+Add missing Mutex files to VS2015 project :)
+-D-E-L-I-M-I-T-E-R-
+Corrected typos in Notepad_plus.cpp
+-D-E-L-I-M-I-T-E-R-
+Enhanced CONTRIBUTING.md
+-D-E-L-I-M-I-T-E-R-
+Fix word spelling in CONTRIBUTING.md
+-D-E-L-I-M-I-T-E-R-
+Added monitored directories to project panel (Change request #2024)
+-D-E-L-I-M-I-T-E-R-
+Update of Ukrainian lang
+-D-E-L-I-M-I-T-E-R-
+Allows user defined extension to associate workspace files
+-D-E-L-I-M-I-T-E-R-
+fix two NULL pointer dereferences
+-D-E-L-I-M-I-T-E-R-
+Display find progress before find in files list creation
+-D-E-L-I-M-I-T-E-R-
+Add a Gitter chat badge to README.md
+-D-E-L-I-M-I-T-E-R-
+Fix smarthighlight
+-D-E-L-I-M-I-T-E-R-
+Use critical section in LongRunningOperation
+-D-E-L-I-M-I-T-E-R-
+[UPDATE] Bulgarian language update
+-D-E-L-I-M-I-T-E-R-
+Add lexer for po, pov, registry
+-D-E-L-I-M-I-T-E-R-
+fix 8 uninitialized reads
+-D-E-L-I-M-I-T-E-R-
+X64 build adaptions
+-D-E-L-I-M-I-T-E-R-
+Update turkish.xml
+-D-E-L-I-M-I-T-E-R-
+Add grave accent to list of non-word characters
+-D-E-L-I-M-I-T-E-R-
+Fix slow tab switching of folded XML (Issue #236 & #329)
+-D-E-L-I-M-I-T-E-R-
+Add some more keywords to JS auto-complete
+-D-E-L-I-M-I-T-E-R-
+Added monitored directories to project panel (Change request #2024)
+-D-E-L-I-M-I-T-E-R-
+Add "let" and "of" for JavaScript lang
+-D-E-L-I-M-I-T-E-R-
+Fix Uninitialized read in tinyxmlparser
+-D-E-L-I-M-I-T-E-R-
+Update VS projects
+-D-E-L-I-M-I-T-E-R-
+Use GWLP_* instead of GWL_* and DWLP_* instead of DWL_* 
+-D-E-L-I-M-I-T-E-R-
+Fix VS2015 compilation
+-D-E-L-I-M-I-T-E-R-
+DlgProc returns INT_PTR and not BOOL.
+-D-E-L-I-M-I-T-E-R-
+Use correct prototype of EnumFontFamExProc.
+-D-E-L-I-M-I-T-E-R-
+Improve copy found lines to clipboard
+-D-E-L-I-M-I-T-E-R-
+fixed minor memory leak when exporting the parameters to XML
+-D-E-L-I-M-I-T-E-R-
+ignore scintilla generated files
+-D-E-L-I-M-I-T-E-R-
+documentmap: ViewZoneDlg: fixed uninitialized variables
+-D-E-L-I-M-I-T-E-R-
+scintilla: buffer: fixed invalid read via strlen when loading a file
+-D-E-L-I-M-I-T-E-R-
+scintilla: buffer: fixed invalid read in the stack when loading a file
+-D-E-L-I-M-I-T-E-R-
+Fix incorrect thread procedure prototype.
+-D-E-L-I-M-I-T-E-R-
+Scintilla: Buffer: fixed invalid read via strlen when loading a file
+-D-E-L-I-M-I-T-E-R-
+Fixed extra space when creating a new document
+-D-E-L-I-M-I-T-E-R-
+adjust build for boost > 1.55 and vs2015
+-D-E-L-I-M-I-T-E-R-
+ScitillaComponent: Buffer: _currentStatus is used uninitialized in ctor
+-D-E-L-I-M-I-T-E-R-
+Update to sqlite 3 8 10 2
+-D-E-L-I-M-I-T-E-R-
+Add .vs folder to ignore
+-D-E-L-I-M-I-T-E-R-
+Synchronize VS2015 project with VS2013.
+-D-E-L-I-M-I-T-E-R-
+More XML based formats
+-D-E-L-I-M-I-T-E-R-
+Gwlp 648, Use GWLP_* instead of GWL_* and DWLP_* instead of DWL_*
+-D-E-L-I-M-I-T-E-R-
+Display FindInFiles progress before files list creation
+-D-E-L-I-M-I-T-E-R-
+removed several redundant LPVOID casts
+-D-E-L-I-M-I-T-E-R-
+remove try/catch block in doOpenSingleFileDlg
+-D-E-L-I-M-I-T-E-R-
+Add .gitattributes file
+-D-E-L-I-M-I-T-E-R-
+Prevent file corruption in some cases
+-D-E-L-I-M-I-T-E-R-
+VS2015
+-D-E-L-I-M-I-T-E-R-
+Optimize font quality for LCD
+-D-E-L-I-M-I-T-E-R-
+Optimize font quality for LCD
+-D-E-L-I-M-I-T-E-R-
+Enhance FindInFiles - part 1
+-D-E-L-I-M-I-T-E-R-
+Added ability to toggle search results window
+-D-E-L-I-M-I-T-E-R-
+Add jsm to the Javascript extensions
+-D-E-L-I-M-I-T-E-R-
+Remove OPENFILENAMENPP structure
+-D-E-L-I-M-I-T-E-R-
+It is rare that one need ordered map, use unordered_map for better pe…
+-D-E-L-I-M-I-T-E-R-
+More xml file extensions
+-D-E-L-I-M-I-T-E-R-
+Restore position when opening recent closed file
+-D-E-L-I-M-I-T-E-R-
+Support compilation in VS2015.
+-D-E-L-I-M-I-T-E-R-
+Remove binary file
+-D-E-L-I-M-I-T-E-R-
+Optimize font quality for LCD at least on WinXP
+-D-E-L-I-M-I-T-E-R-
+Enable multiprocessor build
+-D-E-L-I-M-I-T-E-R-
+Allow user to say no to all "Save" questions.
+-D-E-L-I-M-I-T-E-R-
+Commit VS solution file to repository
+-D-E-L-I-M-I-T-E-R-
+Even more sort fixes
+-D-E-L-I-M-I-T-E-R-
+Add proper .gitignore for VS and C++ exclusions
+-D-E-L-I-M-I-T-E-R-
+[ENHANCEMENT] Find in Files & Search Progress window improvements
+-D-E-L-I-M-I-T-E-R-
+[ENHANCEMENT] Find in Files & search progress window improvements
+-D-E-L-I-M-I-T-E-R-
+Merge with 'upstream/master'
+-D-E-L-I-M-I-T-E-R-
+Use precompiled headers correctly.
+-D-E-L-I-M-I-T-E-R-
+Fix debug build
+-D-E-L-I-M-I-T-E-R-
+Add .gitattributes file and normalize all line endings
+-D-E-L-I-M-I-T-E-R-
+Pr 44
+-D-E-L-I-M-I-T-E-R-
+shortcut.xml file saved on modification with comments
+-D-E-L-I-M-I-T-E-R-
+Improve copy found lines to clipboard
+-D-E-L-I-M-I-T-E-R-
+Update spanish.xml
+-D-E-L-I-M-I-T-E-R-
+x64 build
+-D-E-L-I-M-I-T-E-R-
+added `const` to several methods
+-D-E-L-I-M-I-T-E-R-
+added single `final` and two `override` to AboutDlg
+-D-E-L-I-M-I-T-E-R-
+shortcut.xml file saved on modification with comments
+-D-E-L-I-M-I-T-E-R-
+Fix file status auto-detection settings
+-D-E-L-I-M-I-T-E-R-
+Added the "config" extension for XML files.
+-D-E-L-I-M-I-T-E-R-
+Translate "Restore Recent Closed File"
+-D-E-L-I-M-I-T-E-R-
+Add "repeat" option to column editor
+-D-E-L-I-M-I-T-E-R-
+In debug build, don't treat warnings as errors
+-D-E-L-I-M-I-T-E-R-
+Fix things related to sort optimization
+-D-E-L-I-M-I-T-E-R-
+Enhance Find In Files dialog behavior and search progress window
+-D-E-L-I-M-I-T-E-R-
+Optimize sort functionality
+-D-E-L-I-M-I-T-E-R-
+partially fixed issue #6
+-D-E-L-I-M-I-T-E-R-
+go to next indicator broken with only one char
+-D-E-L-I-M-I-T-E-R-
+Fixed 25 instances of local variable shadowing.
+-D-E-L-I-M-I-T-E-R-
+fixed misaligned OPENFILENAMENPP struct
+-D-E-L-I-M-I-T-E-R-
+Replaced single use of lstrcpy in PluginsManager.cpp
+-D-E-L-I-M-I-T-E-R-
+Remove unused code piece
+-D-E-L-I-M-I-T-E-R-
+Create LICENSE
+-D-E-L-I-M-I-T-E-R-
+Create CONTRIBUTING.md
+-D-E-L-I-M-I-T-E-R-
+[DOCS] add readme hyperlinks
+-D-E-L-I-M-I-T-E-R-
+fixed bad exception mechanism in loadFileData
+-D-E-L-I-M-I-T-E-R-
+Fixed sourceforge issue #5266
+-D-E-L-I-M-I-T-E-R-
+updated SQLite to 3.8.9 from 3.8.5
+-D-E-L-I-M-I-T-E-R-
+Added a static analysis compatible config to the project
+-D-E-L-I-M-I-T-E-R-
+[UPDATE] "Split Lines" uses the edgemode if enabled
+-D-E-L-I-M-I-T-E-R-
+Let's ignore some files i.e. added '.gitignore'.
+-D-E-L-I-M-I-T-E-R-
+When hiding tab bar via command-line parameter, don't affect settings.
+-D-E-L-I-M-I-T-E-R-
+Fix plurals in find-replace dialog.
+-D-E-L-I-M-I-T-E-R-
+Fix ampersands in find dialog status bar.
+-D-E-L-I-M-I-T-E-R-
+[FIX] Fix readme.md formatting
+-D-E-L-I-M-I-T-E-R-
+Patch 1
+-D-E-L-I-M-I-T-E-R-
+[UPDATE] Update incorrect language code
+-D-E-L-I-M-I-T-E-R-
+Update bulgarian.xml
+-D-E-L-I-M-I-T-E-R-
